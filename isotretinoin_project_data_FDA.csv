@@ -1,0 +1,1207 @@
+report_id,dosage_raw,side_effects,patient_age,gender,dosage_mg
+10037271,"20 MG, QD","Neutropenia, Thrombocytopenia, Contusion, Rash, Viral infection",17.0,Male,20.0
+10056774,0.5 MG/KG/DAY (40 MG/D),"Chronic pigmented purpura, Dry skin, Rash pruritic, Rash macular, Petechiae, Headache",,Female,0.5
+10061198,"50 MG, DAILY","Chronic pigmented purpura, Dermatosis",,Female,50.0
+10100692,0.5MG/KG/DAY,"Pericardial effusion, Dry skin, Atrial tachycardia, Lip dry",,,0.5
+10101424,"0.5 MG/KG, DAILY","Lip dry, Dry skin, Pericardial effusion, Atrial tachycardia",26.0,Female,0.5
+10143017,"40.0 MG, 1X/DAY","Chorioretinopathy, Retinal detachment, Photopsia, Visual impairment",33.0,Female,40.0
+10155946,"STARTED APPROXIMATELY 6 MONTHS AGO, DOSE LAST INCREASED 3 MONTHS AGO.","Haematuria, White blood cell count increased",15.0,Male,6.0
+10156647,"20 MG, TID, STARTED APPROXIMATELY 6 MONTHS AGO, DOSE LAST INCREASED 3 MONTHS AGO.","Haematuria, White blood cell count increased",15.0,Male,20.0
+10159397,"40 MG, DAILY",Colitis,17.0,Male,40.0
+10203613,"20 MG, QD","Dysmorphism, Dandy-Walker syndrome, Duane^s syndrome, Hypotonia neonatal, Developmental delay",1.0,Female,20.0
+10209958,"60 MG, DAILY","Type 1 diabetes mellitus, Polyuria, Polydipsia, Weight decreased, Influenza like illness, Blood triglycerides increased",20.0,Male,60.0
+10213578,"60 MG, UNK",Maternal exposure before pregnancy,16.0,Female,60.0
+10218416,30 MG,Pregnancy on contraceptive,22.0,Female,30.0
+10229507,"20 MG, QD","Ectopic pregnancy, Abdominal pain",22.0,Female,20.0
+10240555,"40 MG, BID","Skin fragility, Cheilitis, Xerosis",16.0,Male,40.0
+10244985,40 MG,"Condition aggravated, Rash erythematous, Activities of daily living impaired, Emotional distress, Feeling hot, Erythema, Skin burning sensation, Drug ineffective for unapproved indication, Off label use, Inappropriate schedule of drug administration",50.0,Male,40.0
+10245263,ON DAYS 1 AND 2 OF EACH WEEK FOR 6 WEEKS,"Pancreatitis, Leukopenia, Neutropenia, Amylase increased, Lipase increased, Anaemia, Hypotension, Fatigue, Dehydration, Dysphagia, Vomiting, Blood alkaline phosphatase increased, Aspartate aminotransferase increased, Alanine aminotransferase increased, Febrile neutropenia, Neutropenic infection, Infection, Hypertriglyceridaemia, Hypokalaemia, Hyponatraemia, Muscular weakness, Peripheral motor neuropathy, Cough, Dyspnoea",,,1.0
+10246087,1X/DAY,"Mood altered, Adjustment disorder, Social avoidant behaviour, Personality change, Crying, Drug dose omission",17.0,Female,1.0
+10249120,1 PILL ONCE DAILY TAKEN BY MOUTH,"Pernicious anaemia, Hypoaesthesia, Headache, Abnormal sensation in eye, Feeling abnormal, Visual field defect, Nuclear magnetic resonance imaging brain abnormal, Cerebral ischaemia, Vitamin B12 deficiency, Suicidal ideation, Anxiety, Pain, Benign intracranial hypertension",18.0,Female,1.0
+10267298,"30 MG, QD",Exposure during pregnancy,29.0,Female,30.0
+10269622,20 MG/ZI,"Panic attack, Depression",17.0,Female,20.0
+10294671,"80 MG/M2/DOSE, BID ON DAYS 1-4, TOTAL DOSE ADMINISTERED THIS COURSE: 480 MG","Febrile neutropenia, Device related infection",3.0,Female,80.0
+10312605,LOW DOSE IN 12-WEEKLY CYCLES,Myelodysplastic syndrome,,,12.0
+10312610,LOW DOSE IN 12-WEEKLY CYCLES,Cytopenia,,,12.0
+10312617,LOW DOSE IN 12-WEEKLY CYCLES,Cytopenia,,,12.0
+10328822,"1 PILL, BID, ORAL","Suicide attempt, Intentional overdose",18.0,Male,1.0
+10337605,"20 MG, DAILY","Paraesthesia, Sensory loss, Neuropathy peripheral",,Male,20.0
+10348748,"20 MG,QD","Apathy, Insomnia, Dizziness, Depression, Depressed mood, Lethargy, Apparent death, Disturbance in attention, Panic attack, Suicidal ideation, Vision blurred, Decreased appetite, Feeling abnormal",,,20.0
+10353630,2 LOTS OF 60MG AT 8 WEEKS INTERVALS,"Pregnancy, Abortion induced, Off label use",,,2.0
+10357966,2 LOTS OF 60 MG AT 8 WEEKS INTERVAL,"Abortion induced, Off label use, Exposure during pregnancy",17.0,Female,2.0
+10361957,"40 MG, BID","Anal fissure, Cheilitis, Xerosis, Epistaxis, Rectal haemorrhage",15.0,Female,40.0
+10399047,"0.05 %, UNK","Photosensitivity reaction, Erythema, Subacute cutaneous lupus erythematosus, Condition aggravated, Skin lesion, Pruritus",,,0.05
+10401430,"80 MG/M2/DOSE, BID, ON DAYS 1-4, CYCLE 1","Hypokalaemia, Staphylococcal infection",15.0,Male,80.0
+10417065,40 MILLIGRAM DAILY;,"Rash generalised, Abdominal pain, Headache",,Female,40.0
+10437564,"40 MG, QW",Exposure during pregnancy,,Female,40.0
+10444447,"40 MG, SINGLE",Head injury,27.0,Male,40.0
+10446676,20 MG (0.33 MG/KG/DAY),Acne fulminans,13.0,Male,20.0
+10470095,"40 MG, QD","Cholecystectomy, Menstruation irregular, Amenorrhoea",,Female,40.0
+10474335,"80 MG/M2, BID, ON DAYS 1-4, CYCLE 3","Febrile neutropenia, Device related infection",2.0,Male,80.0
+10486423,20 MG DAILY FOR 5 WEEKS THEN 30 MG DAILY,"Diabetic ketoacidosis, Type 1 diabetes mellitus",,,20.0
+10490055,"20 MG, QD (20 MG DAILY FOR 5 WEEKS THEN 30 MG DAILY)","Diabetic ketoacidosis, Type 1 diabetes mellitus",,,20.0
+10495706,"40 MG, UNK","Suicidal behaviour, Depression, Bone pain, Alopecia, Epiphyses premature fusion, Dry mouth, Libido decreased, Erectile dysfunction, Emotional disorder",,,40.0
+10501437,"30 MG, QD",Hemiplegic migraine,,,30.0
+10504071,"30 MG, DAILY",Hemiplegic migraine,,Male,30.0
+10504290,"30 MG, DAILY",Menorrhagia,17.0,Female,30.0
+10506214,"0.5 MG/KG, DAILY",Type 1 diabetes mellitus,17.0,Male,0.5
+10507832,"60 MG, UNK","Dry skin, Suicidal behaviour, Alopecia, Depression, Vitreous floaters",,,60.0
+10509020,"10 MG, TIW (ADMINISTERED ON MONDAYS, WEDNESDAY AND FRIDAY)","Visual impairment, Vision blurred",45.0,Female,10.0
+10510321,60 MG,"Dry skin, Vitreous floaters, Alopecia, Depression, Suicidal behaviour",,,60.0
+10512693,"5 MG, UNK",Completed suicide,,,5.0
+10515821,5 MG,Completed suicide,,,5.0
+10516339,"20 MG, UNK","Alopecia, Vitreous floaters, Arthritis, Erectile dysfunction",,,20.0
+10519989,"70 MILLIGRAM, QD (1 EVERY 1 DAYS)",Psychotic disorder,19.0,Female,70.0
+10521450,"20 MG, UNK","Erectile dysfunction, Arthritis, Vitreous floaters, Alopecia",22.0,Male,20.0
+10529762,"40 MG, UNK","Bone deformity, Growth retardation, Blood growth hormone decreased, Libido decreased",,,40.0
+10532921,20 MG,"Hallucination, auditory, Bipolar disorder, Psychotic disorder, Depressed mood",32.0,Female,20.0
+10533230,70 MG DAILY (40MG AM AND 30MG PM),"Intentional self-injury, Psychotic disorder",,,70.0
+10534740,"40 MG, UNK","Bone deformity, Libido decreased, Blood growth hormone decreased, Growth retardation",,,40.0
+10538168,40MG AM AND 30MG PM,"Intentional self-injury, Psychotic disorder",,,40.0
+10538171,"20 MG, UNK","Depressed mood, Bipolar disorder, Psychotic disorder, Hallucination, auditory",,,20.0
+10543179,"5 MG, DAILY",Blood creatine phosphokinase increased,,,5.0
+10562007,"20 MG, BID",Acute febrile neutrophilic dermatosis,19.0,Female,20.0
+10574865,"30 MG, DAILY","Weight decreased, Colitis ulcerative, Iron deficiency anaemia",24.0,Female,30.0
+10574866,"40 MG, DAILY","Crohn^s disease, Weight decreased, Iron deficiency anaemia",21.0,Female,40.0
+10585894,DAY 1-14,Death,,,1.0
+10587782,DAY 1-14,Death,,,1.0
+10587784,DAY 1-14,Death,,,1.0
+10587790,DAY 1-14,Death,,,1.0
+10587796,DAY 1-14,Death,,,1.0
+10587797,DAY 1-14,Death,,,1.0
+10607466,1; QHS/BEDTIME,"Eye pruritus, Eye pain, Ocular hyperaemia",24.0,Male,1.0
+10637905,"20 MG, 3XW","Toxicity to various agents, Drug interaction",,,20.0
+10639351,"60 MG, QD","Tinnitus, Deafness",,,60.0
+10639816,"60 MG, DAILY","Deafness, Tinnitus",,,60.0
+10640724,30 MILLIGRAM DAILY;,"Hyporeflexia, Dizziness postural, Hyperhidrosis, Erythema, Muscular weakness, Paraesthesia",27.0,Male,30.0
+10641443,"30 MG, UNK","Mania, Drug interaction",18.0,Female,30.0
+10652658,40 MILLIGRAM DAILY;,Somnambulism,17.0,Male,40.0
+10663983,"10 MG, QD","Exposure during pregnancy, Abortion induced",20.0,Female,10.0
+10688207,"20 MG,  1X/DAY","Polyarthritis, Sacroiliitis",23.0,Male,20.0
+10723843,2 CYCLES,Neoplasm progression,,,2.0
+10731193,"20 MG, QD","Myalgia, Tendon pain, Back pain, Rectal haemorrhage, Arthralgia, Anal fissure",,,20.0
+10731202,RECEIVED AT 20MG/DAY DURING FIRST 3 MONTHS AND THEN INCREASED TO 40MG/DAY,"Demyelinating polyneuropathy, Sacroiliitis",,,20.0
+10731977,"20 MG, DAILY","Demyelinating polyneuropathy, Sacroiliitis",25.0,Male,20.0
+10758254,1 TABLET,"Rash papular, Rash, Inflammation",19.0,Male,1.0
+10758271,"1 PILL, QD, ORAL",Rash papular,18.0,Male,1.0
+10779056,"0.3 MG/KG, DAILY","Acne fulminans, Weight increased",16.0,Male,0.3
+10801668,"20 MG, DAILY",Condition aggravated,23.0,Male,20.0
+10864938,"40 MG,QD",Dry skin,44.0,Female,40.0
+10864978,"40 MG,QD","Alanine aminotransferase increased, Aspartate aminotransferase increased",15.0,Male,40.0
+10864981,"20 MG,BID","Dyspepsia, Diarrhoea, Weight decreased, Chromaturia",20.0,Male,20.0
+10865002,"100 MG,QD","Acne, Hepatic enzyme increased, Lip dry, Drug ineffective",15.0,Male,100.0
+10865059,"60 MG,QD",Hair growth abnormal,,Female,60.0
+10865084,"40 MG,QD",Infectious mononucleosis,,Female,40.0
+10865086,"40 MG,QD",Headache,,Female,40.0
+10865089,"40 MG,QD","Drug ineffective, Acne",16.0,Female,40.0
+10865127,"40 MG,BID","Drug ineffective, Acne",17.0,Female,40.0
+10865131,"60 MG,QD","Tension headache, Myalgia",31.0,Female,60.0
+10865213,"20 MG,BID","Lip dry, Back pain, Burning sensation mucosal, Oropharyngeal pain, Condition aggravated",15.0,Male,20.0
+10865220,"40 MG, QD","Headache, Rash generalised, Abdominal pain",,Female,40.0
+10865223,"40 MG, BID","Flatulence, Nausea",17.0,Male,40.0
+10865265,"60 MG,QD","Hypervitaminosis, Alopecia",,Male,60.0
+10865375,"30 MG, QD","Lip dry, Dry skin",,Male,30.0
+10865487,"60 MG, QD",Alopecia,15.0,Female,60.0
+10865521,"20 MG,QD","Haematocrit decreased, Haemoglobin decreased",15.0,Male,20.0
+10865613,"40 MG,BID",Palpitations,41.0,Male,40.0
+10865628,"80 MG, QOD",Depression,41.0,Female,80.0
+10865795,"40 MG,QD","Dry skin, Arthralgia, Erythema, Pruritus, Headache",37.0,Female,40.0
+10872007,"80 MG,BID","Scleral discolouration, Hypoaesthesia, Lip dry, Blood triglycerides increased, Fall, Arthralgia, Scar, Tachycardia, Peripheral swelling, Chest pain, Rotator cuff syndrome, Enthesopathy, Muscle injury, Alopecia",46.0,Female,80.0
+10890468,"20 MG, QD (AT BREAKFAST TIME)",Panic attack,14.0,Female,20.0
+10911242,"80 MG, QD",Ingrowing nail,,,80.0
+10912157,1 PILL,Deafness unilateral,18.0,Female,1.0
+10921772,"20 MG, DAILY","Acne, Hidradenitis",23.0,Male,20.0
+10922768,"70 MG, UNK",Erectile dysfunction,,,70.0
+10924278,"70 MG, UNK",Erectile dysfunction,,,70.0
+10965277,"40 MG, EVERY DAY, PO",Myalgia,34.0,Male,40.0
+10969951,"40 MG, UNK","Dizziness, Muscle spasms, Headache, Fatigue",,,40.0
+10973700,"1 MG/KG, DAILY","Foetal exposure during pregnancy, Congenital cerebellar agenesis, Microtia",,Male,1.0
+10973822,"40 MG, UNK","Fatigue, Dizziness, Headache, Muscle spasms",17.0,Female,40.0
+11021919,"1 MG/KG, QD","Maternal exposure during pregnancy, Premature separation of placenta",25.0,Female,1.0
+11025802,"80 MG/M2, BID ON DAYS 1-14 (CYCLE 7)",Device related infection,3.0,Male,80.0
+11067371,1 MG/KG PER DAY ON DAYS 1 TO 4 OF EACH CYCLE,Neutropenia,,,1.0
+11071050,1 MG/KG PER DAY ON DAYS 1 TO 4 OF EACH CYCLE,Neutropenia,,,1.0
+11071052,1 MG/KG PER DAY ON DAYS 1 TO 4 OF EACH CYCLE,Febrile neutropenia,,,1.0
+11071090,1 MG/KG PER DAY ON DAYS 1 TO 4 OF EACH CYCLE,Infection,,,1.0
+11071092,1 MG/KG PER DAY ON DAYS 1 TO 4 OF EACH CYCLE,Anaemia,,,1.0
+11071094,1 MG/KG PER DAY ON DAYS 1 TO 4 OF EACH CYCLE,Infection,,,1.0
+11071095,1 MG/KG PER DAY ON DAYS 1 TO 4 OF EACH CYCLE,Pyrexia,,,1.0
+11086280,"0.5 MG/KG, QD","Off label use, Drug-induced liver injury",,,0.5
+11122611,"1 PILL, ONCE DAILY, TAKEN BY MOUTH","Abdominal pain upper, Gastritis, Micturition urgency, Flatulence",21.0,Female,1.0
+11127934,"1 DF, UNK (APPLY 3 TIMES WEEKLY TO SUN SPOTS AS REQUIRED)","Hallucination, visual",,,1.0
+11128382,"1 DF, PRN (APPLY 3 TIMES WEEKLY TO SUN SPOTS AS REQUIRED)","Hallucination, visual",92.0,Female,1.0
+11142827,"1 DF, QD (ONE PER DAY)","Scar, Impaired healing, Skin ulcer",,,1.0
+11163101,20 MG,"Polyarteritis nodosa, Product substitution issue",,,20.0
+11166906,"COURSE 1, 80 MG/M2/DOSE, BID","Hypotension, Personality change",3.0,Male,1.0
+11168435,"0.5 MG/KG, BID","Hypertransaminasaemia, Cartilage injury, Skin lesion, Drug-induced liver injury, Scar, Multiple-drug resistance",10.0,Female,0.5
+11194811,"20 MG, QD","Pruritus, Dry skin, Hyperkeratosis, Oral mucosal exfoliation, Stomatitis",,Male,20.0
+11213188,1 DOSAGE FORMS DAILY; 5 TO 10 MG PER DAY,Postural tremor,19.0,Female,1.0
+11221622,"COURSE 2, 80 MG/M2, BID",Haemolysis,9.0,Male,2.0
+11234692,"40 MG ALTERNATING WITH 20 MG, DAILY",Squamous cell carcinoma,69.0,Male,40.0
+11267384,"50 MG, UNK","Overdose, Suicide attempt",23.0,Female,50.0
+11269501,"40 MG, DAILY","Condition aggravated, Acne fulminans",,,40.0
+11269568,"50 MG, UNK","Suicide attempt, Overdose",,,50.0
+11273776,"1 MG/KG, 1X/DAY","Depressed mood, Hallucination, Insomnia",,,1.0
+11279745,"10 MG, BID","Hypotension, Abdominal pain, Dysphonia, Vomiting, Anaphylactic shock, Eyelid oedema, Nausea, Defaecation urgency, Wrong patient received medication, Sinus tachycardia, Respiratory tract oedema, Syncope, Dyspnoea, Pruritus, Stridor",34.0,Female,10.0
+11289138,"40 MG, QD","Squamous cell carcinoma, Malignant neoplasm progression",69.0,Male,40.0
+11328857,"40 MG, DAILY","Abdominal pain, Headache, Rash generalised",,Female,40.0
+11365584,"40 MG, UNK","Arthralgia, Sciatica, Neuropathy peripheral, Myalgia",,,40.0
+11410899,10MG,"Rickets, Vitamin D deficiency",,,10.0
+11458793,1 PILL  BID  ORAL,"Erectile dysfunction, Libido decreased, Sexual dysfunction",33.0,Male,1.0
+11477969,"20 MG, BID","Poor quality sleep, Intervertebral disc disorder, Iron deficiency, Restless legs syndrome, Endometriosis, Migraine, Arthralgia, Vitamin D deficiency, Back pain, Acne, Somnolence",29.0,Female,20.0
+11507271,120 MG/M^2/D,Hypercalcaemia,4.0,Male,120.0
+11511308,20-40 MG DAILY,Osteonecrosis,,,20.0
+11537788,DOWN-TITRATED TO 20 MG/D,"Exostosis, Mood altered",35.0,Male,20.0
+11540138,"20-40 MG, DAILY, LONG TERM USE","Exostosis, Osteonecrosis",,,20.0
+11540276,30 MG/DAY,"Intentional overdose, Suicide attempt, Depression",,,30.0
+11552350,2 PILLS ONCE DAILY,Loss of libido,21.0,Female,2.0
+11613415,"40 MG, 1X/DAY","Suicide attempt, Major depression",16.0,Female,40.0
+11653756,"40 MG, QD","Anger, Suicidal ideation, Depressed mood, Irritability",,,40.0
+11654651,"40 MG, DAILY","Anger, Irritability, Depressed mood, Suicidal ideation",,,40.0
+11771778,3 PILLS,"Depression, Mood altered, Anxiety, Abnormal behaviour, Thinking abnormal",26.0,Female,3.0
+11784402,"80 MG, QD",Suicide attempt,,,80.0
+11809312,"40 MG, UNK","Pain in extremity, Gait disturbance, Dry eye, Headache, Anxiety, Hypoaesthesia, Lethargy, Nasal discomfort, Epistaxis, Depressed mood, Paraesthesia, Dry mouth",,,40.0
+11820842,"40 MG, UNK","Headache, Nasal discomfort, Epistaxis, Dry mouth, Anxiety, Dry eye, Depressed mood, Paraesthesia, Pain in extremity, Lethargy, Gait disturbance, Hypoaesthesia",,,40.0
+11825442,"40 MG, DAILY","Blindness transient, Aura, Tension headache",,,40.0
+11835711,"1 DF, QD","Arthralgia, Pain in extremity, Fatigue, Dry skin, Myalgia, Arthritis, Asthenia",,,1.0
+11849120,"20 MG, BID","Headache, Libido decreased, Treatment noncompliance, Erectile dysfunction, Nasal dryness, Emotional disorder, Dry skin, Lip dry",,,20.0
+11863560,FOR THE LAST 2 MONTHS,"Headache, Vomiting, Loss of consciousness, Hemiparesis, Transverse sinus thrombosis, Seizure",,,2.0
+11877621,"90 MG, UNK","Pruritus, Nasal crusting, Chapped lips, Lip haemorrhage, Dry skin, Epistaxis, Dry eye, Lip dry, Parosmia",,,90.0
+11880108,20 MG,Night blindness,,,20.0
+11889417,"20 MG, QD",Suicidal ideation,,,20.0
+11891835,"20 MG, QD",Suicidal ideation,,,20.0
+11891845,20MG QD (BED TIME),Pulmonary embolism,22.0,Male,20.0
+11908581,20 MG AT NIGHT,Pulmonary embolism,,,20.0
+11919788,"80 MG, DAILY (0.9 MG/KG)",Pyogenic granuloma,,,80.0
+11919800,"60 MG, DAILY (0.7 MG/KG)",Pyogenic granuloma,,,60.0
+11926815,"20 MG, 1X/DAY AT HS",Pulmonary embolism,22.0,Male,20.0
+11933938,20MG/D (350 MICROGRAM/KG PER DAY),"Encephalitis, Coma",,,20.0
+11938831,"40 MG (DIVIDED INTO 2 DOSES) DAILY, FOR 30 DAYS STARTING ON DAY 1 OF EBRT RADIATION",Skin toxicity,,Female,40.0
+11938950,"40 MG (DIVIDED INTO 2 DOSES) DAILY, FOR 30 DAYS STARTING ON DAY 1 OF EBRT RADIATION",Nephropathy toxic,,Female,40.0
+11982750,"20 MG, QD","Dyspnoea, Rash pruritic",,,20.0
+11999661,"40 MG, UNK",Bronchitis,,,40.0
+11999662,"40 MG, UNK","Irritability, Personality change",,,40.0
+11999667,"40 MG, QD","Back pain, Myalgia, Dry skin, Epistaxis",,Male,40.0
+11999671,QD FOR 4 MONTHS DOSE 40 TO 60 MG,"Nasal dryness, Lip dry, Dry eye",14.0,Female,4.0
+12001175,"50 MG, UNK","Depression, Paranoia, Suicidal ideation",,,50.0
+12005720,"20 MG, BID",Amnesia,,Female,20.0
+12005726,"40 MG, UNK","Acne cystic, Erythema, Scar, Drug ineffective, Furuncle",,,40.0
+12005728,"40 MG, QD","Oedema peripheral, Skin swelling, Pruritus, Skin exfoliation, Seborrhoea, Hypotrichosis",,,40.0
+12083644,"0.5 MG/KG, DAILY","Autoimmune thyroiditis, Cheilitis, Normocytic anaemia, Rhabdomyolysis",,Male,0.5
+12083645,"0.5 MG/KG, DAILY","Cheilitis, Normochromic normocytic anaemia, Rhabdomyolysis, Autoimmune thyroiditis",,Male,0.5
+12083869,"10 MG, TID (PER WEEK)","Erythema, Skin hyperpigmentation, Scar",34.0,Female,10.0
+12115589,"40 MG, QD",Benign intracranial hypertension,,Female,40.0
+12126510,"40 MG/KG, 1X/DAY",Dermatitis,23.0,Male,40.0
+12137224,"0.5 MG/KG, 1X/DAY","Normochromic normocytic anaemia, Rhabdomyolysis, Autoimmune thyroiditis",2.0,Male,0.5
+12137226,"0.5 MG/KG, 1X/DAY","Autoimmune thyroiditis, Normochromic normocytic anaemia, Rhabdomyolysis",2.0,Male,0.5
+12155100,ON DAYS 1-4,Pulmonary toxicity,,,1.0
+12162531,"40 MG, UNK","Paranoia, Malaise, Anxiety, Abdominal distension, Chest pain",,,40.0
+12168239,SYSTEMIC 0.5MG/KG/DAY UP TO A CUMULATIVE DOSE OF 140 MG/KG OVER 12 MONTHS,"Cheilitis, Autoimmune hypothyroidism",,,0.5
+12170672,"40 MG, UNK","Paranoia, Chest pain, Malaise, Anxiety, Abdominal distension",,,40.0
+12172573,SYSTEMIC 0.5MG/KG/DAY UP TO A CUMULATIVE DOSE OF 140 MG/KG OVER 12 MONTHS,"Autoimmune hypothyroidism, Cheilitis",,,0.5
+12196098,"10 MG, QD","Liver function test abnormal, Bile duct stone, Pancreatitis",,,10.0
+12198080,"50 MG, DAILY",Loss of libido,,,50.0
+12209765,"10 MG, QD","Pancreatitis, Liver function test abnormal, Bile duct stone",69.0,Female,10.0
+12210044,2.67 MG/KG PO BID ON DAYS 15-28,"Syncope, Anaemia, Hypotension, Bradycardia",19.0,Female,2.67
+12237066,14-DAY CYCLES (180 MG/M^2 PER DAY),"Growth failure, Epiphyses premature fusion, Growth hormone deficiency",9.0,Female,14.0
+12238235,"20 MG, ALTERNATE DAYS","Headache, Eye pain, Dry skin, Visual impairment",49.0,Female,20.0
+12243607,"20 MG, QOD (ALTERNATE DAYS)","Headache, Visual impairment, Dry skin, Eye pain",,,20.0
+12243774,10 MILLIGRAM DAILY; ALTERNATE DAYS,"Dry skin, Visual impairment, Headache, Eye pain",49.0,Female,10.0
+12243787,20 MG ALTERNATE DAYS,"Eye pain, Headache, Dry skin, Visual impairment",49.0,Female,20.0
+12263355,"20 MG, QOD","Visual impairment, Dry skin, Eye pain, Headache",49.0,Female,20.0
+12265020,"20 MG, QOD","Headache, Eye pain, Visual impairment, Dry skin",49.0,Female,20.0
+12268449,"60 MG, QD",Pregnancy,18.0,Female,60.0
+12271191,"40 MG, DAILY","Abdominal pain, Headache",,Female,40.0
+12280820,"60 MG, DAILY",Pregnancy,18.0,Female,60.0
+12305549,"ELEVEN 14-DAY CYCLES (180 MG/M 2 PER DAY) OVER A 13-MONTH PERIOD FOR A CUMULATIVE DOSE OF 17,360 MG","Body height below normal, Epiphyses premature fusion, Product use issue",9.0,Female,14.0
+12310209,"20 MG, UNK","Lip swelling, Dyspnoea, Urine analysis abnormal, Swelling face, Angioedema, Swollen tongue",28.0,Female,20.0
+12348662,"20 MG, 2X/DAY",Acute febrile neutrophilic dermatosis,19.0,Female,20.0
+12384432,"40 MG, QD","Foetal exposure during pregnancy, DiGeorge^s syndrome",,,40.0
+12403485,"40 MG, UNK",DiGeorge^s syndrome,,,40.0
+12427725,"40 MG, DAILY","Mucous membrane disorder, Skin disorder, Exposure during pregnancy",21.0,Female,40.0
+12438041,30MG/DAY,"Drug ineffective, Cheilitis, Epistaxis, Xerosis",,,30.0
+12438639,"10 MG, UNK","Rickets, Vitamin D deficiency",2.0,Female,10.0
+12446849,"MAINTAINED UNTIL CUMULATIVE DOSE OF 120 MG/KG, TOTALING 7 MONTHS.","Paronychia, Ingrowing nail, Excessive granulation tissue",19.0,Male,120.0
+12455796,"40 MG/DAY (0.54 MG/KG/DAY); A CUMULATIVE DOSE OF 120 MG/KG, TOTALLING 7 MONTHS","Excessive granulation tissue, Ingrowing nail, Paronychia",,,40.0
+12489007,"20 MG, QD","Maternal exposure during pregnancy, Medication error",28.0,Female,20.0
+12520238,20-40 MG,Anxiety,44.0,Male,20.0
+12524451,"1 DF, DAILY (APPLY)",Rash generalised,19.0,Female,1.0
+12527599,"40 MG, 1X/DAY (0.54 MG/KG/DAY)","Excessive granulation tissue, Ingrowing nail, Paronychia",19.0,Male,40.0
+12601340,"30 MG, BID","Irritability, Crying, Anger, Mood swings",,,30.0
+12601344,"30 MG, 2 CAPSULES WITH DINNER","Decreased appetite, Crying, Somnolence, Chapped lips",,,30.0
+12601348,"30 MG, QD","Balance disorder, Mood altered, Crying, Anger, Dizziness",,,30.0
+12610228,"60 MG, UNK","Dry eye, Pruritus, Alopecia, Oral herpes, Chapped lips, Haemorrhoids",,,60.0
+12613592,"60 MG, DAILY, APPROXIMATE TOTAL DOSE RECEIVED 10.8 G)",Bipolar disorder,23.0,Male,60.0
+12613593,(APPROXIMATE TOTAL DOSE RECEIVED 18 G),Bipolar I disorder,19.0,Female,18.0
+12615235,40MG DAILY,"Blood creatine phosphokinase increased, Unmasking of previously unidentified disease",,,40.0
+12617259,"30 MG, BID","Disturbance in attention, Depression",,,30.0
+12617444,"30 MG, BID","Syncope, Pain in jaw, Headache",,,30.0
+12625237,"60 MG, UNK","Chapped lips, Oral herpes, Alopecia, Pruritus, Haemorrhoids, Dry eye",30.0,Female,60.0
+12651505,.5 MG/KG DAILY;,"Syncope, Heart rate increased, Atrial tachycardia, Pericardial effusion",26.0,Female,5.0
+12652657,"60 MG, 1X/DAY","Bipolar I disorder, Suicidal ideation",23.0,Male,60.0
+12652658,"30 MG, 1X/DAY","Suicide attempt, Major depression, Suicidal ideation",27.0,Female,30.0
+12652659,"50 MG, 1X/DAY",Bipolar I disorder,19.0,Female,50.0
+12652661,40-80 MG/DAY (MEAN 60 MG/DAY),"Suicidal ideation, Major depression",17.0,Male,40.0
+12652662,"20 MG, 1X/DAY",Major depression,21.0,Female,20.0
+12652663,"30 MG, 1X/DAY","Suicidal ideation, Major depression, Suicide attempt",18.0,Female,30.0
+12652664,"30 MG, 1X/DAY",Major depression,18.0,Female,30.0
+12652665,"30 MG, 1X/DAY","Suicidal ideation, Major depression",22.0,Female,30.0
+12657623,20 MG DAILY,Corneal erosion,,,20.0
+12667015,"40 MG, DAILY","Unmasking of previously unidentified disease, Off label use, Blood creatine phosphokinase increased",15.0,Female,40.0
+12681974,40-80 MG/DAY,"Major depression, Suicidal ideation",,,40.0
+12681975,50 MG/DAY,Bipolar I disorder,,,50.0
+12681976,30 MG/DAY,"Major depression, Suicidal ideation",,,30.0
+12681977,60 MG/DAY,"Suicidal ideation, Bipolar I disorder",,,60.0
+12681978,30 MG/DAY,"Major depression, Suicidal ideation",,,30.0
+12681979,30MG/DAY,"Suicidal ideation, Major depression, Suicide attempt",,,30.0
+12699069,"60 MG, QD","Vital dye staining cornea present, Hyperhidrosis, Conjunctival disorder, Lip dry, Conjunctival hyperaemia, Acne, Eye pain, Hyperaesthesia, Oral mucosal erythema, Dry eye, Dry skin, Meibomian gland dysfunction",,,60.0
+12704407,"60 MG, UNK",Exposure during pregnancy,25.0,Female,60.0
+12716944,"0.25 MG/KG, 1X/DAY",Retinal detachment,,,0.25
+12717451,"40 MG, QD","Lip dry, Dry eye, Eye pain, Meibomian gland dysfunction, Hyperhidrosis, Hyperaesthesia, Conjunctival hyperaemia, Vital dye staining cornea present, Dry skin, Hyperhidrosis, Conjunctival disorder",18.0,Male,40.0
+12720174,"1 DF, DAILY","Colitis ulcerative, Gastrointestinal disorder",20.0,Female,1.0
+12720428,"60 MG, UNK",Exposure during pregnancy,25.0,Female,60.0
+12723905,60 MILLIGRAM DAILY;,Unintended pregnancy,20.0,Female,60.0
+12725811,50 MILLIGRAM DAILY;,Bipolar I disorder,19.0,Female,50.0
+12725847,60 MILLIGRAM DAILY;,"Suicidal ideation, Bipolar I disorder",23.0,Male,60.0
+12725848,30 MILLIGRAM DAILY;,"Suicidal ideation, Major depression",27.0,Female,30.0
+12725850,30 MILLIGRAM DAILY;,"Major depression, Suicidal ideation",22.0,Female,30.0
+12725851,30 MILLIGRAM DAILY;,"Major depression, Suicidal ideation, Suicide attempt",18.0,Female,30.0
+12726316,40-80 MG/DAY,"Major depression, Suicidal ideation",17.0,Male,40.0
+12736141,"20 MG, QD","Hypersensitivity vasculitis, Papule, Upper respiratory tract infection, Nasopharyngitis, Abdominal pain, Extravasation blood, Lichenoid keratosis, Haematuria, Back pain, Henoch-Schonlein purpura",57.0,Male,20.0
+12745660,"20 MG, DAILY",Corneal erosion,38.0,Female,20.0
+12770717,10 MILLIGRAM DAILY;,"Back pain, Musculoskeletal stiffness, Chest discomfort, Hydromyelia, Spinal osteoarthritis, Muscle spasms",,Male,10.0
+12775854,"10 MG, 1X/DAY","Lip dry, Mood altered",,,10.0
+12788436,"DOSE: 40 MG, STRENGTH: 20 MG X 2 DGL.",Anxiety,22.0,Male,40.0
+12789385,"20 MG, QD (1 KEER PER DAG 2 STUK(S))",Blindness,,,20.0
+12805470,0.5 MG/KG/DAY,Tubulointerstitial nephritis,16.0,Male,0.5
+12825311,"50 MILLIGRAM, QD",Anaemia vitamin B12 deficiency,17.0,Male,50.0
+12830360,"60 MG, UNK","Diarrhoea, Crohn^s disease, Dehydration",,,60.0
+12833882,"20 MG, QD (1 KEER PER DAG 2 STUK(S))",Blindness,,,20.0
+12836753,40 MILLIGRAM DAILY;,Tubulointerstitial nephritis,16.0,Male,40.0
+12846799,"20 MG, DAILY","Palmar erythema, Leukopenia, Muscle spasms, Tachycardia, Body temperature increased, Thrombocytopenia, Malaise, Myopathy, Pain of skin, Cheilitis, Listless",25.0,Male,20.0
+12850051,"20 MG, QD","Thrombocytopenia, Cheilitis, Tachycardia, Myopathy, Leukopenia",,,20.0
+12855201,"10 MG, TID (3 KEER PER DAG 1 STUK(S))",Deafness,,,10.0
+12865214,7 TABLETS,"Exposure during pregnancy, Treatment noncompliance",,Female,7.0
+12882075,"40 MG, 1X/DAY (0.5 MG/KG/DAY)","Tubulointerstitial nephritis, Acute kidney injury",16.0,Male,40.0
+12919845,"1 MG/KG, UNK","Mental disorder, Drug interaction",18.0,Male,1.0
+12921105,"CUMULATIVE DOSE: 13,440 MG/M^2, AFTER SIX COURSES","Epiphyses premature fusion, Limb asymmetry",9.0,Female,13.0
+12921107,"CUMULATIVE DOSE: 13,440 MG/M^2, AFTER SIX COURSES","Epiphyses premature fusion, Limb asymmetry",5.0,Male,13.0
+12921109,"20 MG, 1X/DAY",Myopathy,25.0,Male,20.0
+12924416,"20 MG, QD",Neutropenia,17.0,Female,20.0
+12939446,?          QUANTITY:2 TABLET(S);?,"Aggression, Insomnia, Suicidal ideation, Anxiety, Mood swings, Depression",26.0,Female,2.0
+12989007,"60 MG, DAILY","Hypomania, Acute psychosis",18.0,Female,60.0
+12999294,"40 MG, DAILY",Benign intracranial hypertension,14.0,Male,40.0
+13016319,"20 MG, DAILY","Headache, Pyramidal tract syndrome, Hypertonia, Rhabdomyolysis, Hyperthermia, Encephalitis, Coma",16.0,Male,20.0
+13031108,40 MILLIGRAM DAILY;,"Vomiting, Nausea, Headache, Photophobia, Visual impairment, Myalgia",19.0,Female,40.0
+13043695,"0.2 MG/KG, DAILY","Acne fulminans, Dyslipidaemia, Weight increased",13.0,Female,0.2
+13052207,6-MONTH COURSE AND AGAIN STARTED,"Dry eye, Punctate keratitis, Eyelid oedema",,,6.0
+13081329,"20 MG, 1X/DAY",Mood altered,,,20.0
+13082339,20 MG/KG DAILY,"Skin exfoliation, Erythema, Keratoconus, Conjunctival hyperaemia, Meibomian gland dysfunction",,,20.0
+13082344,30 MG/KG DAILY,Retinal haemorrhage,,,30.0
+13082355,1 MG/KG DAILY,"Autoimmune thyroiditis, Myasthenia gravis",,,1.0
+13099494,"20 MG, UNK","Bone disorder, Tooth discolouration",,,20.0
+13102509,"40 MG, QD",Cerebral venous thrombosis,,,40.0
+13109922,"80 MG/M2, TWICE DAILY","Blood bilirubin increased, Diarrhoea, Blood fibrinogen decreased, Posterior reversible encephalopathy syndrome",5.0,Male,80.0
+13111922,"30 MG/KG, DAILY","Blindness unilateral, Macular ischaemia",19.0,Female,30.0
+13112740,"20 MG, BID, FOR 7 A HALF WEEKS","Skin exfoliation, Dry eye, Vision blurred, Blindness transient, Meibomian gland dysfunction, Corneal disorder, Erythema, Vital dye staining cornea present, Conjunctival hyperaemia",39.0,Female,20.0
+13113043,20 MG/KG DAILY;,"Erythema, Conjunctival hyperaemia, Meibomian gland dysfunction, Skin exfoliation, Keratoconus",39.0,Female,20.0
+13113062,30 MG/KG DAILY;,Retinal haemorrhage,19.0,Female,30.0
+13113349,1 MG/KG DAILY;,"Autoimmune thyroiditis, Myasthenia gravis",19.0,Male,1.0
+13116497,"20 MG, UNK","Tooth discolouration, Bone disorder",18.0,,20.0
+13138450,"1 MG/KG, DAILY","Fibrosis, Extraocular muscle disorder",31.0,Male,1.0
+13138480,"SIX COURSES 13,440 MG/M2","Epiphyses premature fusion, Ovarian disorder",,Female,13.0
+13193178,"1 MG/KG, 1X/DAY","Extraocular muscle disorder, Incorrect drug administration duration",31.0,Male,1.0
+13196492,"80 MG, TOTAL DAILY DOSE",Oral herpes,3.0,Male,80.0
+13254741,"30 MG, QD",Psoriasis,17.0,Female,30.0
+13255956,1 MG/KG/DAY,"Diplopia, Strabismus, Extraocular muscle disorder, Fibrosis",,,1.0
+13272668,?          QUANTITY:1 CAPSULE(S);?,"Nausea, Malaise, Quality of life decreased, Arthralgia, Pain",15.0,Female,1.0
+13277512,"30 MG, 1X/DAY",Sjogren^s syndrome,,,30.0
+13278684,40 MG A DAY,"Depression, Drug interaction, Lethargy",,,40.0
+13279104,"40 MG, QD","Drug interaction, Suicidal ideation, Lethargy, Depression",18.0,Male,40.0
+13288241,"40 MG, QD","Suicidal ideation, Depression, Early satiety, Lethargy, Drug interaction, Weight decreased",18.0,Male,40.0
+13296644,40MG A DAY,Drug interaction,18.0,Male,40.0
+13301604,40 MILLIGRAM DAILY;,"Hepatitis toxic, Drug interaction",18.0,Male,40.0
+13305989,40 MILLIGRAM DAILY;,"Depression, Suicidal ideation, Lethargy, Drug interaction",18.0,Male,40.0
+13331190,"40 MG, ONCE A DAY","Abdominal distension, Depression, Suicidal ideation, Lethargy, Weight decreased, Drug interaction",18.0,Male,40.0
+13355415,0.2 MG/KG/DAY; 10MG/DAY,"Acne fulminans, Dyslipidaemia, Weight increased",,,0.2
+13366063,"40 MG, QD","Dry eye, Skin fragility, Dry mouth, Mood altered, Alopecia, Dyspnoea, Malaise, Back pain, Dry skin, Skin hyperpigmentation, Arthralgia, Anal fissure, Vision blurred, Anxiety, Photosensitivity reaction, Myalgia, Nasal mucosal disorder, Suicidal ideation, Dizziness, Hyperhidrosis, Dry throat, Mouth ulceration, Skin exfoliation, Epistaxis, Hypoacusis",,,40.0
+13372494,"40 MG, QD","Myalgia, Hypoacusis, Dry throat, Back pain, Epistaxis, Anal fissure, Hyperhidrosis, Vision blurred, Dyspnoea, Arthralgia, Mouth ulceration, Dry eye, Dry skin, Suicidal ideation, Dry mouth, Skin hyperpigmentation, Malaise, Anxiety, Skin exfoliation, Nasal mucosal disorder, Dizziness, Photosensitivity reaction, Mood altered, Skin fragility, Alopecia",19.0,Male,40.0
+13380875,"40 MG, DAILY","Nail disorder, Drug ineffective, Nail discolouration",17.0,Male,40.0
+13383597,THE DOSE IS 120-150 MG/KG,"Skin discolouration, Rheumatoid arthritis",17.0,Female,120.0
+13394303,"20 MG, UNK","Muscle atrophy, Abnormal behaviour, Depression, Anxiety, Psychotic disorder, Mental disorder, Back pain, Stress, Erectile dysfunction, Gynaecomastia, Arthralgia, Pallor, Alcohol intolerance, Joint noise, Suicidal ideation, Disturbance in attention, Emotional distress, Sexual dysfunction, Purging, Pharyngitis streptococcal, Exercise tolerance decreased, Aggression, Impulsive behaviour",16.0,Male,20.0
+13422023,"20 MG, UNK","Exercise tolerance decreased, Mental disorder, Pallor, Pharyngitis streptococcal, Psychotic disorder, Abnormal behaviour, Alcohol intolerance, Aggression, Disturbance in attention, Purging, Stress, Arthralgia, Back pain, Impulsive behaviour, Sexual dysfunction, Muscle atrophy, Anxiety, Erectile dysfunction, Joint noise, Emotional distress, Suicidal ideation, Depression",16.0,Male,20.0
+13459385,1DD1,"Depression, Suicidal ideation",,,1.0
+13463780,STRENGTH: 60-70 MG,"Asthenia, Lethargy",16.0,Male,60.0
+13464041,PERMANENTLY DISCONTINUED AFTER 8 MONTHS OF TREATMENT.,Neutropenia,,Female,8.0
+13490329,"20 MG, 1X/DAY IN THE MORNING",Fear,17.0,Female,20.0
+13490330,"20 MG, 1X/DAY IN THE MORNING",Suicidal ideation,14.0,Male,20.0
+13490331,^10 MG AND 20 MG AND 30 MG AND 40 MG^ SINGLE MORNING DOSE,Mood altered,,,10.0
+13504756,30 MILLIGRAM DAILY;,"Cervical vertebral fracture, Pelvic fracture, Comminuted fracture, Apathy, Suicide attempt, Confusional state, Feeling abnormal, Humerus fracture, Panic attack",21.0,Male,30.0
+13546198,40 MILLIGRAM DAILY;,Dacryostenosis acquired,37.0,Female,40.0
+13556871,"1% SOLUTION, PRN","Parkinson^s disease psychosis, Dehydration, Gastric pH decreased, Hypotension, Urinary tract infection, Gastric haemorrhage, Gastric infection, Pneumonia, Ear infection, Diarrhoea, Haematuria, Myocardial infarction, Freezing phenomenon, Fall, Bedridden, Urinary incontinence, Anal incontinence, Memory impairment, Tooth infection, Delusion, Blood pressure decreased, Malaise, Prescribed underdose, Confusional state, Hallucination, Hallucination, Drug ineffective, Hallucination, Confusional state, Constipation, Hallucination, Hallucination",65.0,Male,1.0
+13562732,"20 MG, DAILY",Exposure during pregnancy,,Female,20.0
+13566375,"40 MG, QD",Exposure during pregnancy,,Female,40.0
+13569261,"SIX COURSES  WITH CUMULATIVE DOSE OF 13,440 MG/M2",Epiphyses premature fusion,9.0,Female,13.0
+13569500,5 MONTHS. IN MORNING,Hepatic enzyme increased,,Female,5.0
+13575576,"20 MG, DAILY","Initial insomnia, Decreased appetite, Psychotic behaviour, Hallucination, auditory, Delusion, Irritability, Akathisia, Social avoidant behaviour, Suspiciousness",13.0,Male,20.0
+13595462,40 MG,"Tearfulness, Depressed mood, Childhood depression",12.0,Female,40.0
+13614977,30 MG,Organic erectile dysfunction,15.0,Male,30.0
+13616469,"40 MG, 1X/DAY",Pityriasis rosea,20.0,Female,40.0
+13693029,0.4-0.8 MG/KG/DAY,Sacroiliitis,,Female,0.4
+13693030,0.4-0.8 MG/KG/DAY,Sacroiliitis,,Female,0.4
+13693032,0.4-0.8 MG/KG/DAY,Sacroiliitis,,Female,0.4
+13693051,0.4-0.8 MG/KG/DAY,Sacroiliitis,,Female,0.4
+13693052,0.4-0.8 MG/KG/DAY,Sacroiliitis,,Female,0.4
+13693077,0.4-0.8 MG/KG/DAY,Sacroiliitis,,Male,0.4
+13700985,80 NGM TWICE A DAY,"Headache, Mental status changes, Hallucination, visual",59.0,Male,80.0
+13720761,"IN 2-(3) DIVIDED DOSES FOR SUBSEQUENT 14 DAYS FOLLOWED BY A 14 DAY REST, TOTAL OF 6 CYCLES","Dry skin, Epiphyses premature fusion, Dwarfism, Constipation, Gait disturbance, Growth failure, Off label use, Pain in extremity, Headache",4.0,Female,2.0
+13741854,0.5-1 MG/KG/DAY,"Suicide attempt, Mood swings",,Female,0.5
+13741856,0.5-1 MG/KG/DAY,Mood swings,,,0.5
+13765851,"0.5 MG/KG, DAILY",Neutrophilic dermatosis,13.0,Male,0.5
+13767955,"0.5 MG/KG, QD",Neutrophilic dermatosis,13.0,Male,0.5
+13769815,"0.8 MG/KG, QD","Paradoxical drug reaction, Acne fulminans",,,0.8
+13769870,"0.6 MG/KG, QD","Acne fulminans, Paradoxical drug reaction",,,0.6
+13790359,"20 MG, DAILY","Depression, Completed suicide",20.0,Male,20.0
+13794967,"0.5 MG/KG, DAILY","Condition aggravated, Neutrophilic dermatosis",13.0,Male,0.5
+13820339,HAD BEEN ON 40 MG DAILY SINCE 2/2017,"Overdose, Suicide attempt",17.0,Female,40.0
+13845370,40 MG/DAY (0.5 MG/KG/DAY) FOR 3 MONTHS,"Acute kidney injury, Tubulointerstitial nephritis, Eosinophilia",,,40.0
+13847037,"150 MG/KG, UNK","Stress, Exercise tolerance decreased, Negative thoughts, Alcohol intolerance, Psychotic disorder, Speech disorder, Depression, Suicidal ideation, Abnormal behaviour, Loss of libido, Anxiety, Gynaecomastia, Aggression, Alopecia, Erectile dysfunction, Fracture, Muscle atrophy, Fatigue",,,150.0
+13849372,"150 MG/KG, UNK","Psychotic disorder, Anxiety, Aggression, Alopecia, Erectile dysfunction, Loss of libido, Speech disorder, Abnormal behaviour, Exercise tolerance decreased, Depression, Negative thoughts, Stress, Gynaecomastia, Fatigue, Suicidal ideation, Fracture, Muscle atrophy, Alcohol intolerance",20.0,Male,150.0
+13898241,20 MG,"Delusion, Back pain, Depression, Dry skin, Dry eye, Suicidal ideation, Anxiety, Mental status changes, Psychotic disorder",32.0,Female,20.0
+13900432,"20 MG, UNK","Depression, Delusion, Dry skin, Mental status changes, Anxiety, Back pain, Dry eye, Psychotic disorder, Suicidal ideation",,,20.0
+13967690,"20 MG, QD","Gastrointestinal haemorrhage, Faeces discoloured, Rectal haemorrhage",18.0,Male,20.0
+13989056,"10 MG, DAILY","Myalgia, Vision blurred, Headache, Leukocytosis, Dizziness, Lymphocytosis",16.0,Male,10.0
+14049694,"20 MG, QD","Thrombocytopenia, Neutropenia, Rash maculo-papular",21.0,Male,20.0
+14071625,"20 MG, UNK","Suicidal ideation, Mood altered, Condition aggravated",16.0,Male,20.0
+14077442,"40 MG, UNK","Dyspnoea, Throat tightness, Musculoskeletal stiffness, Swelling",25.0,Female,40.0
+14092111,"20 MG, UNK","Rash generalised, Temperature intolerance, Headache, Pyrexia, Feeling hot, Photosensitivity reaction",26.0,Female,20.0
+14098838,20  DAILY;,"Fatigue, General physical health deterioration, Myositis, Pain, Fibromyalgia, Myalgia, Balance disorder, Burning sensation, Arthralgia, Restlessness, Musculoskeletal stiffness",42.0,Female,20.0
+14100460,"25 MG, QD","Hepatocellular injury, Transaminases increased",50.0,Female,25.0
+14100616,20 MG/DAY,"Psychotic disorder, Dystonia",13.0,Male,20.0
+14102065,"20 MG, DAILY","Neurodermatitis, Maternal exposure before pregnancy, Adverse reaction",,Female,20.0
+14121307,"40 MG, UNK",Acne,,Male,40.0
+14146558,40 MILLIGRAM,Erectile dysfunction,43.0,Male,40.0
+14168928,"40 MG, 1X/DAY (QD)",Blood triglycerides increased,27.0,Female,40.0
+14176731,"20 MG, DAILY",Rhabdomyolysis,17.0,Male,20.0
+14207097,"20 MG, UNK","Headache, Intracranial pressure increased",25.0,Female,20.0
+14232114,"20 MG, BID","Paternal exposure timing unspecified, Abortion spontaneous",,Female,20.0
+14241486,"80 MG, QD","Nausea, Aphasia, Drug withdrawal syndrome, Confusional state, Prostatic disorder, Back pain, Depression, Dry skin, Disturbance in attention, Fatigue, Mucosal dryness, Foot deformity",17.0,,80.0
+14244703,80 MILLIGRAM DAILY;,"Fatigue, Prostatic disorder, Confusional state, Aphasia, Disturbance in attention, Depression, Mucosal dryness, Nausea, Dry skin, Foot deformity, Back pain, Drug withdrawal syndrome",17.0,,80.0
+14265469,"20 MG, BID",Chikungunya virus infection,,Male,20.0
+14265887,"80 MG, QD",Gastric haemorrhage,20.0,Female,80.0
+14273928,"20 MG, BID","Gastroenteritis norovirus, Dacryocystitis, Cellulitis",,Male,20.0
+14279271,20 MG/DAY,"Myopia, Angle closure glaucoma",28.0,Female,20.0
+14280022,"20 MG, DAILY, FIRST MONTH",Sacroiliitis,32.0,Female,20.0
+14283081,20 MILLIGRAM DAILY;,"Gingivitis, General physical health deterioration",22.0,Male,20.0
+14287647,"100 MG/M2, PER DAY, DAY 1 TO 14, 29 TO 42, 57 TO 70",Disease progression,,,100.0
+14335570,STRENGTH: 20 MG. DOSAGE: 1 CAPSULE ON ODD DATES AND 2 CAPSULES ON EQUAL DATES,"Dizziness, Asthma, Dry skin, Visual impairment, Depression, Lip dry, Eye infection, Rash, Mucosal dryness, C-reactive protein increased, Blood cholesterol increased, Arthralgia, Back pain, Fatigue, Suicidal ideation, Aggression",21.0,Female,20.0
+14341888,"30 MG, UNK","No adverse event, Maternal exposure during pregnancy",23.0,Female,30.0
+14342522,"20 MG, 1X/DAY",Angle closure glaucoma,28.0,Female,20.0
+14350658,SECOND MONTH: 30MG/DAY,Sacroiliitis,32.0,Female,30.0
+14360788,"FIRST MONTH: 20MG/DAY, THEN INCREASED",Sacroiliitis,32.0,Female,20.0
+14361782,"40 MG, UNK","Low density lipoprotein increased, Drug ineffective, Hepatic enzyme increased",51.0,Female,40.0
+14398696,2 CYCLES,"Pain in extremity, Muscular weakness, Disease progression, Myelitis transverse, Hypotonia, Irritability",24.0,Female,2.0
+14398697,2 CYCLES,"Hypotonia, Irritability, Dysuria, Muscular weakness, Anal incontinence, Urinary incontinence, Myelitis transverse",24.0,Female,2.0
+14418484,40 MG/DAY,"Pityriasis rosea, Dry skin",20.0,Female,40.0
+14452222,"15 MG, UNK","Muscle spasms, Abdominal pain upper, Disturbance in attention, Orthostatic hypotension, Cheilitis, Epistaxis, Vertigo",13.0,Male,15.0
+14465555,"10 MG, QD","Loss of consciousness, Bradypnoea, Oxygen saturation decreased",39.0,Male,10.0
+14484427,?          QUANTITY:1 TABLET(S);?,"Dry skin, Erectile dysfunction, Alopecia, Arthralgia, Irritable bowel syndrome",25.0,Male,1.0
+14494795,80MG PER DAY (1.5MG/KG),"Sacroiliitis, Acne fulminans, Synovitis",16.0,Male,80.0
+14496166,"55 MG, UNK","Intentional overdose, Depressed mood",19.0,Female,55.0
+14501971,"20 MG, UNK","Deep vein thrombosis, International normalised ratio decreased, Peripheral swelling, Pleuritic pain",19.0,Male,20.0
+14528104,"20 MG, UNK","International normalised ratio decreased, Pleuritic pain, Peripheral swelling, Deep vein thrombosis",19.0,Male,20.0
+14536573,"80 MG, UNK",Suicidal ideation,,Female,80.0
+14539050,"0.6 MG/KG, (30 MG/D), DOSE GRADUALLY INCREASED TILL 1.5 MG/KG (80 MG/D)","Synovitis, Sacroiliitis, Acne",16.0,Male,0.6
+14558931,"40 MG, UNK",Pregnancy test false positive,,Female,40.0
+14596492,STYRKE: 20 MG.,"Depressive symptom, Aggression, Sleep disorder, Feeling of despair",13.0,Male,20.0
+14597127,"20 MG, UNK","Pain in extremity, Myalgia, Joint swelling, Irregular breathing, Arthralgia, Fatigue",23.0,Female,20.0
+14597280,DOSE REDUCED TO 30 MG.,"Urethritis noninfective, Anal inflammation, Urethral haemorrhage, Anal haemorrhage",17.0,Male,30.0
+14616804,"20 MG, UNK","Facial paralysis, Foetal exposure during pregnancy, Anomaly of external ear congenital, Cerebellar hypoplasia, Hypotonia neonatal",,,20.0
+14629484,"50 MG, UNK","Epistaxis, Mood swings, Joint stiffness, Arthralgia, Back pain",17.0,Female,50.0
+14647938,20-40 MG/DAY,Sacroiliitis,24.0,Female,20.0
+14647950,20-40 MG/DAY,Sacroiliitis,37.0,Female,20.0
+14647952,20-40 MG/DAY,Sacroiliitis,17.0,Male,20.0
+14647954,20-40 MG/DAY,Sacroiliitis,22.0,Female,20.0
+14647955,20 MG/DAY,Sacroiliitis,19.0,Female,20.0
+14648008,20-40 MG/DAY,Sacroiliitis,25.0,Female,20.0
+14648009,20-40 MG/DAY,Sacroiliitis,21.0,Female,20.0
+14648014,20 MG/DAY,Sacroiliitis,16.0,Male,20.0
+14648016,20-40 MG/DAY,Sacroiliitis,36.0,Female,20.0
+14648018,20-40 MG/DAY,Sacroiliitis,32.0,Female,20.0
+14648019,20 MG/DAY,Sacroiliitis,18.0,Male,20.0
+14651483,20 MG/DAY,Sacroiliitis,16.0,Male,20.0
+14651525,20-40 MG/DAY,Sacroiliitis,22.0,Female,20.0
+14676300,"DOSAGE: 2 CAPSULES DAILY, STRENGTH: 20 MG","Fatigue, Malaise, Type 1 diabetes mellitus, Weight decreased",19.0,Male,2.0
+14681262,20-40 MG/DAY,Sacroiliitis,37.0,Female,20.0
+14681263,20 MILLIGRAM DAILY;,Sacroiliitis,16.0,Male,20.0
+14681264,20-40 MG/DAY,Sacroiliitis,22.0,Female,20.0
+14681268,20-40 MG/DAY,Sacroiliitis,25.0,Female,20.0
+14681270,20-40 MG/DAY,Sacroiliitis,36.0,Female,20.0
+14681271,20-40 MG/DAY,Sacroiliitis,24.0,Female,20.0
+14681272,20 MILLIGRAM DAILY;,Sacroiliitis,18.0,Male,20.0
+14681339,20-40 MG/DAY,Sacroiliitis,32.0,Female,20.0
+14681340,20-40 MG/DAY,Sacroiliitis,17.0,Male,20.0
+14681342,20 MILLIGRAM DAILY;,Sacroiliitis,19.0,Female,20.0
+14681343,20-40 MG/DAY,Sacroiliitis,21.0,Female,20.0
+14687812,"40 MG, QD","Headache, Subarachnoid haemorrhage",50.0,Female,40.0
+14689799,5 TABLETS ONCE A DAY,"Anxiety, Panic attack",16.0,Female,5.0
+14692234,20-40 MG/DAY,Sacroiliitis,32.0,Female,20.0
+14692235,20-40 MG/DAY,Sacroiliitis,24.0,Female,20.0
+14692236,20-40 MG/DAY,Sacroiliitis,25.0,Female,20.0
+14692272,20 MG/DAY,Sacroiliitis,19.0,Female,20.0
+14692273,20-40 MG/DAY,"Sacroiliitis, Behcet^s syndrome",36.0,Female,20.0
+14692274,"20 MG, DAILY",Sacroiliitis,18.0,Male,20.0
+14692277,20-40 MG/DAY,Sacroiliitis,17.0,Male,20.0
+14692278,20-40 MG/DAY,Sacroiliitis,21.0,Female,20.0
+14692279,20-40 MG/DAY,Sacroiliitis,37.0,Female,20.0
+14705490,20 MILLIGRAM DAILY;,"Diarrhoea, Haematochezia, Abdominal pain upper",27.0,Male,20.0
+14732723,30 MILLIGRAM DAILY; 30 [MG/D ]/ DOSAGE 10-0-20 MG/D,Abortion spontaneous,31.0,Female,30.0
+14819120,10 MILLIGRAM DAILY;,"Condition aggravated, Systemic lupus erythematosus",,Female,10.0
+14825137,"20 MG, DAILY","Vasculitis, Arthritis, Myositis, Tendonitis, Antineutrophil cytoplasmic antibody positive",15.0,Male,20.0
+14832490,"20 MG, 1X/DAY","Suicidal ideation, Depression",22.0,Female,20.0
+14834556,"20 MG, UNK","Foetal exposure during pregnancy, Facial paralysis, Anomaly of external ear congenital, Hypotonia neonatal, Cerebellar hypoplasia",,,20.0
+14843934,"50 MG, UNK","Joint stiffness, Back pain, Mood swings, Epistaxis, Arthralgia",17.0,Female,50.0
+14854820,"20 MG, 1X/DAY",Depression,17.0,Female,20.0
+14895626,"40 MG, QOD","Myalgia, Adverse drug reaction",,Female,40.0
+14897781,"0.8 MG/KG (MILLIGRAM PER KILOGRAM), QD","Visual impairment, Off label use, Keratitis, Lacrimation increased, Photophobia, Chalazion, Corneal deposits, Ocular hyperaemia, Conjunctivitis, Product use in unapproved indication, Eye pain",15.0,Female,0.8
+14906929,40 MILLIGRAM DAILY; STRENGTH: 20 MG.,"Dry eye, Ocular hyperaemia, Eye pain, Dacryocystorhinostomy, Tear break up time decreased, Meibomian gland dysfunction, Eye irritation, Dry eye, Dry eye",27.0,Male,40.0
+14929121,100 MG/M2/DAY CONTINUOUSLY,"Rash, Product use in unapproved indication",7.0,Female,100.0
+14939000,"40 MG, QD","Temperature intolerance, Hyperhidrosis",32.0,Female,40.0
+14950962,"40 MG, DAILY","Muscle spasms, Nausea, Abnormal dreams, Hallucination, visual",81.0,Female,40.0
+14953988,"20 MG, UNK",Epilepsy,17.0,Female,20.0
+14972597,"30 MG, DAILY","Anxiety, Swelling face, Disturbance in attention, Flushing, Agitation, Hyperventilation, Disorganised speech",15.0,Male,30.0
+14980303,"40 MG, QD","Subarachnoid haemorrhage, Headache",50.0,Female,40.0
+14981688,"60 MG, UNK","Suicidal ideation, Depression",29.0,Female,60.0
+15003247,"4 DF, DAILY","Chapped lips, Emotional distress, Sexual dysfunction, Erectile dysfunction, Loss of libido, Psychiatric symptom, Dry skin",,,4.0
+15014575,USED ISOTRETINOIN FOR NODULAR ACNE UNTIL 18 WEEKS GESTATION,"Foetal retinoid syndrome, Exposure during pregnancy, Abortion induced",24.0,Female,18.0
+15023546,20 MILLIGRAM DAILY;,"SAPHO syndrome, Acne, Musculoskeletal discomfort, Mouth cyst",13.0,Male,20.0
+15023701,"20 MG, QD","Juvenile idiopathic arthritis, Pancytopenia, Anti-neutrophil cytoplasmic antibody positive vasculitis, Haematuria, Gait inability, Myositis, Proteinuria, Haematemesis, Pyuria, Tendonitis",15.0,Male,20.0
+15027414,20 MILLIGRAM DAILY; STYRENE: 20 MG.,"Knee deformity, Depressed mood, Pain, Epiphyses premature fusion, Loss of personal independence in daily activities",13.0,Male,20.0
+15051622,"20 MG, 1X/DAY","Myositis, Tendonitis, Arthritis, Anti-neutrophil cytoplasmic antibody positive vasculitis",15.0,Male,20.0
+15065791,"20 MG, DAILY","Drug effect incomplete, Depression",17.0,,20.0
+15067321,"40 MG, 1X/DAY","Panic attack, Anxiety",,Male,40.0
+15077584,0.3-1 MG/KG/DAY (TOTAL CUMULATIVE DOSE OF 150MG/KG),Toxic goitre,23.0,Female,0.3
+15100200,"150 MG/KG, IN TOTAL",Toxic goitre,23.0,Female,150.0
+15105620,0.3?1 MG/KG/DAY (TOTAL CUMULATIVE DOSE OF 150MG/KG),Toxic goitre,23.0,Female,0.3
+15143089,"0.8 MILLIGRAM/KILOGRAM, QD","Chalazion, Eye pain, Visual impairment, Lacrimation increased, Ocular hyperaemia, Photophobia, Keratitis, Conjunctivitis",15.0,Female,0.8
+15165206,EXPOSURE DURING 1 TRIMESTER,No adverse event,,Female,1.0
+15169081,|| DOSIS UNIDAD FRECUENCIA: 20 MG?MILIGRAMOS || DOSIS POR TOMA: 20 MG?MILIGRAMOS || N TOMAS POR ...,"Conduct disorder, Self-injurious ideation",14.0,Male,20.0
+15178149,UNK (30 MG),"Condition aggravated, Guillain-Barre syndrome",25.0,Female,30.0
+15183457,"50 MG, UNK (DOSE REDUCED TO 30 MG)","Anal haemorrhage, Urethritis noninfective, Urethral haemorrhage, Anal inflammation",17.0,Male,50.0
+15183528,"40 MG, 1X/DAY",Exposure during pregnancy,,Female,40.0
+15183535,"60 MG, 2X/DAY",Medication error,20.0,Female,60.0
+15183538,"20 MG, 2X/DAY",Exposure during pregnancy,,Female,20.0
+15183545,"30 MG, 1X/DAY","Anxiety, Depression",,Female,30.0
+15183547,"40 MG, UNK",Condition aggravated,,Female,40.0
+15183553,"40 MG, 2X/DAY",Exposure during pregnancy,,Female,40.0
+15183558,"60 MG, UNK",Exposure during pregnancy,19.0,Female,60.0
+15183560,"60 MG, UNK","Abortion spontaneous, Exposure during pregnancy",25.0,Female,60.0
+15183566,"30 MG, UNK","Malaise, Insomnia, Disturbance in attention",,Female,30.0
+15216179,"20 MG, QD","Epistaxis, Rhinorrhoea, Dizziness, Intracranial pressure increased, Discomfort, Headache, Paralysis, Balance disorder, Drug interaction",50.0,Male,20.0
+15235194,30MG PER DAG,"Depressed mood, Suicidal ideation",19.0,Male,30.0
+15269887,ADMINISTERED IN 12?WEEKLY CYCLES,Acute myeloid leukaemia,,,12.0
+15291964,20 MG/D (45 DAYS PRIOR TO ADMISSION),Mania,20.0,Female,20.0
+15292712,0.5 MG/KG,"Myalgia, Acne, Leukocytosis, Transaminases increased, Neutrophilic dermatosis, Skin ulcer, Scab, Pyrexia, Rash papular, Deformity, Skin oedema, Arthralgia",13.0,Male,0.5
+15298334,"20 MG, 3X/DAY (60 MG/DAY)",Mania,20.0,Female,20.0
+15325508,"0.5 MILLIGRAM/KILOGRAM, QD",Neutrophilic dermatosis,13.0,Male,0.5
+15336577,".05 MG/KG, 1X/DAY",Neutrophilic dermatosis,13.0,Male,5.0
+15341663,"80 MG, DAILY","Vomiting, Pollakiuria, Diabetic ketoacidosis, Abnormal loss of weight, Thirst, Dyspnoea, Malaise",23.0,Female,80.0
+15347848,"0.5 MG/KG, 1X/DAY",Neutrophilic dermatosis,13.0,Male,0.5
+15348164,0.5/KG 1X/DAY,Neutrophilic dermatosis,13.0,Male,0.5
+15348634,"0.5 MG/KG, 1X/DAY",Neutrophilic dermatosis,13.0,Male,0.5
+15350322,1 DOSAGE FORMS DAILY;,"Mental impairment, Depression",35.0,Female,1.0
+15352851,"40 MG, QD",Chorioretinopathy,19.0,Male,40.0
+15353128,"40 MG, 1X/DAY",Chorioretinopathy,19.0,Male,40.0
+15369124,"80 MG, DAILY",Ulcerative keratitis,34.0,Male,80.0
+15370446,20 MILLIGRAM DAILY;,"Neutropenia, Thrombocytopenia, Rash maculo-papular",21.0,Male,20.0
+15372619,"60 MG, UNK",Appendicitis,18.0,Male,60.0
+15377036,"40 MG, DAILY",Chorioretinopathy,19.0,Male,40.0
+15385616,40 MILLIGRAM DAILY;,Chorioretinopathy,19.0,Male,40.0
+15402683,"40 MG, 2X/DAY",Blood creatine phosphokinase increased,24.0,Male,40.0
+15431703,0.5 MG/KG/D,Drug ineffective,16.0,Male,0.5
+15439903,"0.5 MG/KG, QD",Neutrophilic dermatosis,13.0,Male,0.5
+15449944,30-70MG A DAY,"Suicide attempt, Mood altered, Myalgia, Depression, Hypoacusis, Muscular weakness",16.0,Male,30.0
+15452327,"40 MG, 2X/DAY","Anhedonia, Educational problem, Depression, Lethargy, Insomnia",,Male,40.0
+15456644,"30 MG, QD","Anxiety, Depressed mood, Apathy",24.0,Male,30.0
+15457106,"20 MG, QD","Disturbance in attention, Flushing, Agitation, Hyperventilation, Disorganised speech, Swelling face, Anxiety",15.0,Male,20.0
+15476536,"40 MG, BID",Exposure during pregnancy,,Female,40.0
+15484292,"60 MG, UNK","Depression, Suicidal ideation",29.0,Female,60.0
+15500928,"40 MG, 1X/DAY","Hypertension, White blood cell count increased, Emergency care, Dyspnoea, Chapped lips, Mean platelet volume decreased, Epistaxis, Oesophagitis, Red cell distribution width decreased",15.0,Female,40.0
+15509620,"4 DF, QD","Sexual dysfunction, Chapped lips, Emotional distress, Psychiatric symptom, Erectile dysfunction, Loss of libido, Dry skin",18.0,Male,4.0
+15544647,40 MILLIGRAM DAILY;,Urinary retention,16.0,Male,40.0
+15551380,"40 MG, 2X/DAY, 30 MG, 2X/DAY","Epistaxis, Malaise",,Male,40.0
+15551384,"40 MG, 1X/DAY",Paronychia,56.0,,40.0
+15551387,"1 CAPSULES, 2X/DAY",Exposure during pregnancy,,Female,1.0
+15551388,"40 MG, 1X/DAY","Lip haemorrhage, Lip dry, Cheilitis",,,40.0
+15551392,"40 MG, 1X/WEEK",Arthralgia,,,40.0
+15551398,"2 CAPSULES, 1X/DAY",Dry skin,,Female,2.0
+15551401,"40 MG, 2X/DAY",Depression,,Male,40.0
+15551411,"10 MG, 2X/DAY",White blood cell count decreased,,Male,10.0
+15551424,"1 CAPSULES, 2X/DAY","Exposure during pregnancy, Abortion induced",21.0,Female,1.0
+15551426,"40 MG, 1X/DAY","Dehydration, Malaise",,Female,40.0
+15551430,"40 MG, 2X/DAY","Depression, Suicidal ideation",28.0,Male,40.0
+15551432,"30 MG, 2X/DAY","Feeling abnormal, Depressed mood, Irritability, Alopecia",16.0,Female,30.0
+15551434,"1 CAPSULES, 1X/DAY",Intentional product use issue,,Female,1.0
+15551439,"40 MG, 2X/DAY","Gastrooesophageal reflux disease, Dyspepsia",,Female,40.0
+15551448,"30 MG, 2X/DAY",Mood swings,,Female,30.0
+15551451,"40 MG, 2X/DAY","Exposure during pregnancy, Pregnancy test false positive",,Female,40.0
+15579758,"20 MG, BID (2D1)","Condition aggravated, Inflammatory bowel disease",19.0,Female,20.0
+15588587,"40 MG, UNK","Abdominal pain, Torticollis, Blepharospasm, Dysphemia, Muscle spasms",15.0,Female,40.0
+15590750,"40 MG, 2X/DAY",Facial paralysis,16.0,Male,40.0
+15612208,"UNK UNK, QD, 1 PER 1 DAY","Persistent depressive disorder, Suicidal ideation, Suicide attempt",15.0,Male,1.0
+15618328,"10 MG,","Inappropriate schedule of product administration, Lip dry, Flushing",,Male,10.0
+15635677,"60 MG, QD","Suicidal ideation, Depression, Mood altered",25.0,Male,60.0
+15653829,?          QUANTITY:1 CAPSULE(S);?,"Loss of libido, Erectile dysfunction",26.0,Male,1.0
+15668922,30 MILLIGRAM,"Maternal exposure during pregnancy, Maternal exposure timing unspecified, Pregnancy on oral contraceptive",24.0,Female,30.0
+15680520,"40 MG, 2X/DAY",Facial paralysis,6.0,Male,40.0
+15681798,"80 MG (1.5 MG/KG), 1X/DAY","Synovitis, Acne fulminans, Sacroiliitis",16.0,Male,80.0
+15681801,"20 MG, 1X/DAY",Depression,,,20.0
+15681802,"60 MG, 1X/DAY (3 TABLETS OF 20 MG TAKEN BID)",Meningitis aseptic,20.0,Female,60.0
+15681805,"20 MG, 1X/DAY","Abnormal dreams, Abnormal sleep-related event",,,20.0
+15683825,1D 1STUK,"Petechiae, Pyrexia, Abdominal pain",16.0,Male,1.0
+15693028,"60 MILLIGRAM, DAILY",Amenorrhoea,14.0,Female,60.0
+15707901,"40 MILLIGRAM, DAILY","Depression, Suicidal ideation",38.0,Female,40.0
+15711496,100 MILLIGRAM,"Depressed mood, Suicidal ideation, Self-injurious ideation",25.0,Female,100.0
+15714989,"10 MG, QD","Myalgia, Conjunctival hyperaemia, Product use in unapproved indication, Condition aggravated, Dry eye, Acne, Disease progression, Therapy non-responder",21.0,Male,10.0
+15717193,"60 MILLIGRAM, DAILY","Tearfulness, Suicide attempt, Aggression, Anxiety, Depression",16.0,Male,60.0
+15725176,"60 MILLIGRAM, DAILY","Acne, Drug ineffective, Conjunctival hyperaemia, Dry eye, Myalgia",21.0,Male,60.0
+15759131,"40 MILLIGRAM, DAILY","Inflammatory bowel disease, Colitis ulcerative",19.0,Male,40.0
+15760461,"0.3 MILLIGRAM/KILOGRAM, QD","Keloid scar, Acne fulminans",27.0,Male,0.3
+15786550,|| DOSIS UNIDAD FRECUENCIA: 20 MG-MILIGRAMOS || DOSIS POR TOMA: 20 MG-MILIGRAMOS || N? TOMAS POR UNI,"Self-injurious ideation, Conduct disorder",14.0,Male,20.0
+15787002,40 MILLIGRAM DAILY;,"Mobility decreased, Arthritis reactive",31.0,Female,40.0
+15795745,30 MILLIGRAM,"Condition aggravated, Guillain-Barre syndrome",25.0,Female,30.0
+15802693,STRENGTH: 20MG?DOSE: FROM 20MG TO 40MG DAILY,"Eyelid operation, Lacrimation increased, Ocular hyperaemia, Dermatochalasis, Conjunctivoplasty, Blepharitis, Eye irritation",62.0,Male,20.0
+15805442,"60 MILLIGRAM, DAILY","Stress, Fatigue",17.0,Male,60.0
+15805443,"30 MILLIGRAM, DAILY",Male sexual dysfunction,37.0,Male,30.0
+15807358,"60 MG, 1X/DAY",Product prescribing issue,,Female,60.0
+15807379,"40 MG, 1X/DAY","Lethargy, Insomnia, Depression, Anhedonia, Educational problem",,Male,40.0
+15832019,60 MILLIGRAM DAILY; STRENGTH: 20 MG,Type 1 diabetes mellitus,,Male,60.0
+15835709,70 MILLIGRAM,Loss of libido,26.0,Female,70.0
+15842567,"20 MILLIGRAM, QD","Blood cholesterol increased, Depression, Blood creatine phosphokinase increased, Blood triglycerides increased",21.0,Female,20.0
+15849663,"20 MG, EVERY 48 HOURS","Blood cholesterol increased, Blood creatine phosphokinase increased, Blood triglycerides increased, Depression",,Female,20.0
+15849740,"30 MILLIGRAM, QD, (30MG PER DAG)","Depressed mood, Suicidal ideation",19.0,Male,30.0
+15867765,40 MILLIGRAM,"Skin burning sensation, Skin exfoliation, Skin irritation, Dry skin",23.0,Female,40.0
+15879527,SCHEDULED FOR 4 WEEKS,"Hypertensive crisis, Torticollis",64.0,Male,4.0
+15880987,20 MILLIGRAM,"Aquagenic pruritus, Urticaria aquagenic",34.0,,20.0
+15891106,"60 MG,QD","Major depression, Depression, Suicidal ideation, Depressive symptom",16.0,Male,60.0
+15951980,60 MILLIGRAM,Appendicitis,18.0,Male,60.0
+15954514,"80 MILLIGRAM, QD","Malaise, Thirst, Dyspnoea, Pollakiuria, Abnormal loss of weight, Vomiting, Diabetic ketoacidosis",23.0,Female,80.0
+15984819,"40 MG, 2X/DAY",Depression,29.0,Female,40.0
+15985235,20 MILLIGRAM DAILY;,"Lymphoid hyperplasia of intestine, Diarrhoea, Haematochezia",29.0,Female,20.0
+16008538,40 MILLIGRAM,Erectile dysfunction,23.0,Male,40.0
+16027586,30 MILLIGRAM DAILY;,"Anxiety, Depression",16.0,Female,30.0
+16037730,"20 MILLIGRAM, QD",Erectile dysfunction,28.0,Male,20.0
+16040928,"40 MG, 2X/DAY","Drug ineffective for unapproved indication, Drug ineffective, Tooth extraction, Hidradenitis, Product use in unapproved indication",,Male,40.0
+16040962,"30 MG, 2X/DAY","Off label use, Arthralgia",75.0,Male,30.0
+16040988,30 MG,Back pain,16.0,Male,30.0
+16041049,"30 MG, 1X/DAY ^IN THE DAYTIME^",Lacrimal disorder,14.0,Female,30.0
+16041062,40 MG,"Epistaxis, Dry throat, Nasal dryness",,Female,40.0
+16041065,"30 MG, 1X/DAY","Alanine aminotransferase increased, Dry skin, Low density lipoprotein increased, Blood cholesterol increased, Off label use, Blood creatine phosphokinase increased, Aspartate aminotransferase increased, Lip dry, High density lipoprotein decreased, Arthralgia",23.0,Male,30.0
+16041163,"40 MG, 1X/DAY","Tachycardia, Palpitations, Bronchitis",,Female,40.0
+16041192,"120 MG, 1X/DAY",Epistaxis,,Male,120.0
+16041439,60 MG,"Acne, Drug ineffective",,,60.0
+16041553,"30 MG, 2X/DAY",Abdominal discomfort,46.0,Female,30.0
+16042590,"40 MG, 2X/DAY","Glomerular filtration rate decreased, Blood creatinine increased, Aspartate aminotransferase increased",32.0,Male,40.0
+16045532,60 MILLIGRAM,Maternal exposure during pregnancy,23.0,Female,60.0
+16100548,"70 MILLIGRAM, QD","Hypoacusis, Depression, Mood altered, Myalgia, Muscular weakness, Suicide attempt",16.0,Male,70.0
+16104308,20 MILLIGRAM DAILY;,"Arthralgia, Facet joint syndrome, Osteochondrosis, Immobile, Back pain, Epiphyses premature fusion, Alopecia, Visual acuity reduced, Radiculopathy, Thoracic outlet syndrome, Loss of personal independence in daily activities, Incorrect product administration duration, Spinal disorder",37.0,Male,20.0
+16130810,100 MILLIGRAM,"Self-injurious ideation, Suicidal ideation, Depressed mood",25.0,Female,100.0
+16151952,"30 MILLIGRAM, QD (1X PER DAG 3 STUKS)","Suicidal ideation, Mood swings, Aggression, Depressed mood, Anxiety",15.0,Male,30.0
+16167371,10 MG PER DAG,"Oropharyngeal pain, Middle insomnia, Dry eye, Ear pain, Confusional state, Coordination abnormal, Migraine, Decreased appetite, Dizziness, Fatigue, Vision blurred, Depressed mood",42.0,Female,10.0
+16188544,2 X 1,"Visual impairment, Burning sensation, Fatigue, Dry skin, Headache",22.0,Female,2.0
+16188961,UNK (LOWER THAN 40 MG DEPENDING ON SYMPTOMS),"Off label use, Depressed mood, Feeling of despair, Iron deficiency, Fatigue, Somnolence, Anger, Laboratory test abnormal, Gilbert^s syndrome, Stress, Blood alkaline phosphatase increased",27.0,Male,40.0
+16200275,"60 MILLIGRAM, DAILY, (3 TABLETS OF 20 MG TAKEN BID)","Type IV hypersensitivity reaction, Meningitis aseptic",20.0,Female,60.0
+16205888,"20 MILLIGRAM, DAILY",Completed suicide,46.0,Male,20.0
+16208199,20 MG,Hidradenitis,40.0,Female,20.0
+16211130,"1 DOSAGE FORM, QD","Vascular access site thrombosis, Pulmonary thrombosis, Contusion, Infusion site erythema, Infusion site pain, Peripheral swelling, Skin hypertrophy, Vascular access site infection, Adnexal torsion, Malaise, Condition aggravated, Incisional hernia, Incorrect dose administered, Intestinal obstruction, Ovarian mass, Product dose omission issue, Swelling, Wrong technique in product usage process, Myalgia, Abdominal pain lower, Pruritus, Urticaria, Drug hypersensitivity, Hypersensitivity, Angioedema",18.0,Female,1.0
+16213487,30 MILLIGRAM,"Pregnancy on oral contraceptive, Maternal exposure during pregnancy",24.0,Female,30.0
+16229850,"40 MG, BID",Mydriasis,,,40.0
+16235210,"20 MILLIGRAM, QD",Amenorrhoea,14.0,Female,20.0
+16235211,1D 1STUK,"Pyrexia, Petechiae, Abdominal pain",16.0,Male,1.0
+16239591,"20 MG, EVERY 48 HOURS","Blood creatine phosphokinase increased, Blood cholesterol increased, Blood triglycerides increased, Depression",,Female,20.0
+16240899,"40 MG, 1X/DAY","Suicide threat, Homicidal ideation",20.0,Male,40.0
+16252672,"40 MILLIGRAM, QD","Depression, Suicidal ideation",38.0,Female,40.0
+16257361,"20 MILLIGRAM, QD","Skin papilloma, Cheilitis, Xerosis",40.0,Male,20.0
+16257451,"60 MILLIGRAM, QD","Depression, Suicide attempt, Tearfulness, Aggression, Anxiety",16.0,Male,60.0
+16314587,"30 MILLIGRAM, QD","Idiosyncratic drug reaction, Pancreatitis acute",14.0,Male,30.0
+16340384,"40 MILLIGRAM, QD (2 CAPSULES AFTER LUNCH)",Exposure during pregnancy,,Female,40.0
+16361097,40 MILLIGRAM,"Blepharospasm, Dysphemia, Muscle spasms, Torticollis, Abdominal pain",15.0,Female,40.0
+16385052,40 MG DAILY,Idiopathic intracranial hypertension,14.0,Male,40.0
+16389884,"1 MG/KG, QD","Lip pain, Rash, Arthralgia, Constipation, Dry skin, Eye pain, Nausea, Vomiting, Decreased appetite, Pain, Fatigue, Blood creatinine abnormal",,,1.0
+16393407,LESS THAN 0.5 MG/KG/DAY,Mood altered,,,0.5
+16393413,LESS THAN 0.5 MG/KG/DAY,Mood altered,,,0.5
+16402197,1 X P/D 2 STUKS,Interstitial lung disease,51.0,Male,1.0
+16403070,"20 MILLIGRAM, DAILY","Dry skin, Sacroiliitis, Arthritis",30.0,Male,20.0
+16408281,20 MILLIGRAM DAILY;,"Arthritis, Sacroiliitis",30.0,Male,20.0
+16408476,"20 MG, UNK","Wheelchair user, Muscle spasms, Gait inability, Myalgia",17.0,Female,20.0
+16413718,.5 MG/KG DAILY;,"Acne conglobata, Neutrophilic dermatosis, Pyrexia, Rebound effect, Drug ineffective, Condition aggravated, Pain, Myalgia, Skin plaque, Product administered to patient of inappropriate age, Arthralgia, Acne, Intentional product use issue, Skin ulcer, Off label use",13.0,Male,5.0
+16414234,9 SESSIONS,"Systemic lupus erythematosus, Lupus nephritis, Condition aggravated, Skin lesion",15.0,Female,9.0
+16429604,"0.5 MILLIGRAM/KILOGRAM, DAILY","Arthralgia, Intentional product use issue, Skin plaque, Pyoderma gangrenosum, Myalgia, Pyrexia, Condition aggravated, Acne, Drug ineffective, Neutrophilic dermatosis, Pain, Skin ulcer, Red blood cell sedimentation rate increased, Acne conglobata, Acne fulminans, Acute febrile neutrophilic dermatosis, Leukocytosis, Transaminases increased, C-reactive protein increased, Off label use, Product administered to patient of inappropriate age",13.0,Male,0.5
+16431213,"60 MILLIGRAM, QD","Stress, Fatigue",17.0,Male,60.0
+16432727,"30 MILLIGRAM, QD",Male sexual dysfunction,37.0,Male,30.0
+16445117,70 MILLIGRAM,Loss of libido,26.0,Female,70.0
+16446335,"90 MG, BID ON DAYS 1-14",Pneumonia,8.0,Female,90.0
+16480050,"40 MG, TOTAL DAILY DOSE","Blindness, Tunnel vision, Off label use, Altered visual depth perception, Optic atrophy, Speech disorder developmental, Dyschromatopsia",2.0,Female,40.0
+16486611,40 MG/TAG,"Renal pain, Type 1 diabetes mellitus",34.0,Female,40.0
+16487823,?          QUANTITY:30 CAPSULE(S);?,"Emotional distress, Erectile dysfunction",20.0,Male,30.0
+16491899,30 MILLIGRAM DAILY;,"Orgasmic sensation decreased, Male sexual dysfunction, Hyperhidrosis",19.0,Male,30.0
+16494705,"30MG, 45MG, 60MG. ()","Arthralgia, Depression, Dry eye, Anxiety, Suicidal ideation, Meibomian gland dysfunction",23.0,Female,30.0
+16498046,"60 MILLIGRAM, QD",Hyperthyroidism,16.0,Male,60.0
+16500857,"60 MG, 1X/DAY",Hyperthyroidism,16.0,Male,60.0
+16510007,"120 MILLIGRAM, DAILY","Epiphyses premature fusion, Knee deformity",10.0,Female,120.0
+16526784,6 CYCLES,"Neuroblastoma, Treatment failure, Disease progression",,,6.0
+16526801,6 CYCLES,"Treatment failure, Disease progression, Neuroblastoma",,,6.0
+16526809,6 CYCLES,"Treatment failure, Neuroblastoma, Disease progression",,,6.0
+16527679,6 CYCLES,"Disease progression, Treatment failure, Neuroblastoma",,,6.0
+16527875,6 CYCLES,"Disease progression, Treatment failure, Neuroblastoma",,,6.0
+16528187,60 MILLIGRAM DAILY;,Hyperthyroidism,16.0,Male,60.0
+16530632,"60 MILLIGRAM, DAILY",Hyperthyroidism,,Male,60.0
+16536486,"30 MILLIGRAM, DAILY","Feeling abnormal, Visual impairment, Dry eye, Dyspnoea, Anxiety",32.0,Female,30.0
+16536521,"30 MILLIGRAM, DAILY","Orgasmic sensation decreased, Hyperhidrosis, Male sexual dysfunction",19.0,Male,30.0
+16539115,CUMULATIVE DOSE OF 5 G,"Vitamin B12 deficiency, Anaemia macrocytic, Blood lactate dehydrogenase increased, Folate deficiency, Aphthous ulcer, Transaminases increased",17.0,Female,5.0
+16543132,"40 MILLIGRAM, DAILY","Type 1 diabetes mellitus, Renal pain",34.0,Female,40.0
+16544290,"20 MG, 1X/DAY",Kounis syndrome,25.0,Male,20.0
+16559222,40 MILLIGRAM DAILY;,"Loss of libido, Erectile dysfunction, Anorgasmia, Genital hypoaesthesia",15.0,Male,40.0
+16565477,"40 MILLIGRAM, QD","Aggression, Suicidal behaviour, Gastrointestinal disorder, Mental disorder, Paranoia",33.0,Female,40.0
+16567550,"20 MILLIGRAM, QD",Tendon rupture,40.0,Female,20.0
+16572459,10 MG FIRST MONTHS AND 20 MG LATER,"Leukocytosis, Myalgia, Protein total increased, Hypertrophic scar, Acne fulminans, Motor dysfunction",19.0,Male,10.0
+16572474,"20 MG, 1X/DAY","Kounis syndrome, Coronary artery thrombosis, Acute myocardial infarction",25.0,Male,20.0
+16576461,40 MILLIGRAM,"Drug monitoring procedure incorrectly performed, Depression, Completed suicide, Psychotic disorder",15.0,Female,40.0
+16576463,"40 MILLIGRAM, UNK",Completed suicide,15.0,Female,40.0
+16589097,"40 MILLIGRAM, DAILY","Erectile dysfunction, Anorgasmia, Genital hypoaesthesia, Loss of libido",15.0,Male,40.0
+16592289,40 MILLIGRAM,Erectile dysfunction,23.0,Male,40.0
+16595948,"20 MILLIGRAM, UNK","Crying, Mental disorder, Agitation, Depersonalisation/derealisation disorder, Suicidal ideation, Anxiety, Thinking abnormal",34.0,Female,20.0
+16607510,"20 MILLIGRAM, DAILY",Tendon rupture,,,20.0
+16610704,10 MG,Hospitalisation,,Male,10.0
+16615112,20 MILLIGRAM DAILY;,"Stenosis, Kounis syndrome, Thrombosis, Acute myocardial infarction",25.0,Male,20.0
+16623153,"20 MILLIGRAM, DAILY","Kounis syndrome, Thrombosis, Myocardial infarction",25.0,Male,20.0
+16623934,6G CUMULATIVE DOSE OVER 11 MONTHS,Aphthous ulcer,17.0,Female,6.0
+16632808,20 MG ON ALTERNATE DAYS,"Vomiting, Malaise, Lethargy, Headache, Type 1 diabetes mellitus, Chapped lips, Dysgeusia",15.0,Female,20.0
+16635398,STOPPED AFTER 11 SESSIONS (25/MAR/2015 TO 20/APR/2015),"Skin lesion, Alopecia",15.0,Female,11.0
+16644518,60 MILLIGRAM,Maternal exposure during pregnancy,23.0,Female,60.0
+16646053,"20 MILLIGRAM, 1DOSE/24HOUR",Tendon rupture,40.0,Female,20.0
+16653914,20-60MG PER DAY,Depression suicidal,20.0,Female,20.0
+16664433,"25 MG, UNKNOWN","Urinary tract infection, Psoriasis, Product dose omission",57.0,Female,25.0
+16671257,"40 MILLIGRAM, DAILY",Erectile dysfunction,18.0,Male,40.0
+16681252,ONE 20MG AND TWO 5MG.,Haematochezia,27.0,Female,20.0
+16696045,"60 MILLIGRAM, DAILY","Suicidal ideation, Depressive symptom, Agitation, Anxiety",26.0,Male,60.0
+16696165,20 MG ON ALTERNATE DAYS,"Type 1 diabetes mellitus, Malaise, Headache, Lethargy, Vomiting, Chapped lips, Dysgeusia",15.0,Female,20.0
+16700200,ONE 20MG AND TWO 5MG.,Haematochezia,27.0,Female,20.0
+16700756,INCREASED TO 60 MG DAILY,"Paronychia, Pyogenic granuloma",18.0,Male,60.0
+16714086,1 KEER PER DAG 2 STUK(S),Blindness,16.0,Female,1.0
+16717111,"70 MILLIGRAM, QD","Maternal exposure during pregnancy, Headache",26.0,Female,70.0
+16739551,"80 MILLIGRAM, DAILY","Lethargy, Withdrawal syndrome, Anaemia folate deficiency, Fatigue",31.0,Female,80.0
+16748336,"20 MILLIGRAM, QD","Paraesthesia, Polyneuropathy, Pain",23.0,Male,20.0
+16748445,"20 MILLIGRAM, QD","Tinnitus, Dizziness, Abdominal pain upper, Immune system disorder, Headache, Drug ineffective, Back pain, Pruritus, Dry skin",29.0,Female,20.0
+16753712,"MONTH 1 - 10MG, UNK","Proctalgia, Anal fissure, Haematochezia, Anal pruritus",36.0,Female,1.0
+16757690,"20 MILLIGRAM, DAILY, INCREASED UP TO 20MG","Educational problem, Disturbance in attention, Abnormal behaviour",15.0,Male,20.0
+16761020,"20 MILLIGRAM, QD",Completed suicide,46.0,Male,20.0
+16763360,TITRATED UP FROM 20MG TO 40MG OVER THREE MONTHS,"Tearfulness, Asthenia, Insomnia, Apathy, Irritability, Depression, Personality change, Social avoidant behaviour, Mood swings",16.0,Female,20.0
+16774177,"30 MILLIGRAM, DAILY",Pyogenic granuloma,28.0,Female,30.0
+16774185,40 MILLIGRAM,"Anxiety, Obsessive-compulsive disorder, Malaise",27.0,Female,40.0
+16778849,30 MILLIGRAM DAILY;,"Acne fulminans, SAPHO syndrome, Gait inability, Drug hypersensitivity, Drug ineffective",17.0,Male,30.0
+16786106,"UNK ORAL, 1X/DAY (243 MG/KG TOTAL CUMULATIVE DOSE)",Ingrowing nail,18.0,Male,1.0
+16794363,72.7 MILLIGRAM/KILOGRAM,"Ingrowing nail, Paronychia, Erythema, Urethritis",18.0,Male,72.7
+16797255,"30 MILLIGRAM, DAILY","Sacroiliitis, Arthritis, Drug ineffective, Acne fulminans",17.0,Male,30.0
+16825849,10 MG?,"Pulmonary embolism, Chest pain",17.0,Female,10.0
+16844127,?          QUANTITY:1 TABLET(S);?,"Arthralgia, Mobility decreased, Rheumatoid arthritis, Chest pain, Bone erosion, Emotional distress, Anxiety, Musculoskeletal pain, Depression, Back pain, Pain in extremity, Irritable bowel syndrome, Impaired work ability, Fatigue, Loss of personal independence in daily activities",31.0,Female,1.0
+16859998,"30 MILLIGRAM, UNK","Ejaculation disorder, Withdrawal syndrome, Loss of libido, Erectile dysfunction, Palpitations, Cardiac flutter",23.0,Male,30.0
+16869859,"1 DOSAGE FORM, QD (1X PER DAG)","Oral herpes, Infection, Upper respiratory tract infection, Infection susceptibility increased",,Female,1.0
+16884589,"0.5 MILLIGRAM, QD","Erythema nodosum, Acne fulminans",18.0,Male,0.5
+16884743,1 X P/D 2 STUKS,"Pulmonary fibrosis, Interstitial lung disease",51.0,Male,1.0
+16895039,20 MILLIGRAM,"Depersonalisation/derealisation disorder, Thinking abnormal, Agitation, Mental disorder, Anxiety, Suicidal ideation, Crying",34.0,Female,20.0
+16895117,"UNK, 30MG, 45MG, 60MG.","Anxiety, Meibomian gland dysfunction, Depression, Suicidal ideation, Dry eye, Arthralgia",23.0,Female,30.0
+16899990,"30 MILLIGRAM, QD","Orgasmic sensation decreased, Male sexual dysfunction, Hyperhidrosis",19.0,Male,30.0
+16904802,20 MILLIGRAM,"Anxiety, Agitation, Depressive symptom, Suicidal ideation",26.0,Male,20.0
+16904833,"40 MILLIGRAM, QD","Erectile dysfunction, Anorgasmia, Genital hypoaesthesia, Loss of libido",15.0,Male,40.0
+16907383,40 MILLIGRAM,Completed suicide,15.0,Female,40.0
+16907767,STARTED 20MG INCREASED TO 40 MG DAILY,"Completed suicide, Major depression, Psychotic disorder, Depressed mood, Drug monitoring procedure incorrectly performed",15.0,Female,20.0
+16908942,"40 MILLIGRAM, QD",Erectile dysfunction,18.0,Male,40.0
+16915660,?          QUANTITY:1 CAPSULE(S);?,"Growth retardation, Arthralgia",16.0,Male,1.0
+16916879,"80 MG, QD","Completed suicide, Gastric infection, Lip dry, Erythema, Localised infection, Ingrowing nail, Pain in extremity, Personality change, Scar, Dry skin, Oropharyngeal pain, Aggression, Psychiatric symptom, Depression, Suicidal ideation, Suicide attempt, Overdose",16.0,Male,80.0
+16924835,"40 MILLIGRAM, TITRATED UP FROM 20MG TO 40MG OVER THREE MONTHS","Depression, Insomnia, Mood swings, Personality change, Social avoidant behaviour, Tearfulness, Asthenia, Irritability, Apathy",16.0,Female,40.0
+16926233,"20 MILLIGRAM, INCREASED UP TO 20MG","Disturbance in attention, Educational problem, Abnormal behaviour",15.0,Male,20.0
+16930160,50 MILLIGRAM MONTH 3 - 50MG,"Anal fissure, Anal pruritus, Haematochezia, Proctalgia",36.0,Female,50.0
+16935966,"20 MILLIGRAM, BID","Dry skin, Malaise, Somnolence, Epistaxis, Insomnia, Muscular weakness, Chapped lips",18.0,Male,20.0
+16935970,"30 MILLIGRAM, UNK",Drug ineffective,,Female,30.0
+16935976,40 MILLIGRAM,Menstruation delayed,,Female,40.0
+16937341,"20 MILLIGRAM, DAILY","Diarrhoea, Acidosis, Vomiting, Tachycardia",16.0,Male,20.0
+16937591,"AFTER BREAKFAST AND DINNER. (120MG, QD)",Libido decreased,17.0,Female,120.0
+16940881,"40 MILLIGRAM WITH MAIN MEAL, QD","Suicidal ideation, Anhedonia, Anxiety, Depression, Poor quality sleep, Irritability",19.0,Female,40.0
+16955029,DOSE: 40-60 MG. STRENGTH: 20 MG.,Type 1 diabetes mellitus,15.0,Male,40.0
+16969410,"40 MG, 1X/DAY","Drug exposure before pregnancy, Vomiting, Nausea",22.0,Female,40.0
+16969657,FOR 7 YEARS,"Bone hypertrophy, Myelopathy",38.0,Male,7.0
+16971472,"40 MILLIGRAM, QD",Chest pain,16.0,Male,40.0
+16980189,"80 MILLIGRAM, QD","Depression, Intentional self-injury, Intentional overdose",16.0,Male,80.0
+16995098,.5 MG/KG DAILY;,"Pain, Pyoderma gangrenosum, Transaminases increased, Neutrophilic dermatosis, Acute febrile neutrophilic dermatosis, Pyrexia, Myalgia, Acne fulminans, Arthralgia",13.0,Male,5.0
+16996113,.5 MG/KG DAILY;,"Arthralgia, Acute febrile neutrophilic dermatosis, Pyoderma gangrenosum, Pyrexia, Acne fulminans, Pain, Transaminases increased, Myalgia, Neutrophilic dermatosis",13.0,Male,5.0
+16999696,50 MILLIGRAM,"Loss of libido, Erectile dysfunction",18.0,Male,50.0
+17001775,"20 MILLIGRAM, QD",Maternal exposure during pregnancy,24.0,Female,20.0
+17029973,"10 MILLIGRAM, DAILY",Bone hypertrophy,38.0,Male,10.0
+17040983,"80 MILLIGRAM, DAILY","Intentional self-injury, Depression, Intentional overdose",16.0,Male,80.0
+17041982,50 MILLIGRAM,"Erectile dysfunction, Loss of libido",18.0,Male,50.0
+17042109,70MG X 1 MONTH (),Organic erectile dysfunction,18.0,Male,70.0
+17075885,"0.1 MG/KG, 1X/DAY","Staphylococcal infection, Acne fulminans",26.0,Male,0.1
+17080335,40 MILLIGRAM DAILY;,"Maternal exposure during pregnancy, Skin disorder, Mucosal disorder",21.0,Female,40.0
+17090864,"30 MILLIGRAM, UNK","Diplopia, Insomnia, Myalgia, Night blindness, Depressed mood, Arthralgia, Panic attack, Anxiety, Vision blurred, Tremor",30.0,Female,30.0
+17093225,"STRENGTH: 20MG , 20 MG 1 DAYS","Retinal artery occlusion, Visual acuity reduced",35.0,Female,20.0
+17100057,"10 MG, UNKNOWN","Acne fulminans, Staphylococcal infection",26.0,Male,10.0
+17100927,"1 DF, QD",Rash,23.0,Female,1.0
+17101395,"0.1 MG/KG, QD","Acne fulminans, Staphylococcal infection",26.0,Male,0.1
+17103002,"30 MILLIGRAM, DAILY",Pulmonary embolism,22.0,Female,30.0
+17107373,"20 MILLIGRAM, QD",Tendon rupture,40.0,Female,20.0
+17116291,"1 DOSAGE FORM, QD","Anxiety, Panic reaction",21.0,Female,1.0
+17137868,"10 MILLIGRAMS, DAILY","Acne fulminans, Drug ineffective",26.0,Male,10.0
+17148892,"20 MILLIGRAMS, DAILY","Depersonalisation/derealisation disorder, Gastrointestinal disorder, Depression, Genital hypoaesthesia, Vitreous floaters, Feeling abnormal, Poor quality sleep",18.0,Male,20.0
+17156567,60 MILLIGRAM,"Liver function test abnormal, Drug reaction with eosinophilia and systemic symptoms, Rash morbilliform",17.0,Male,60.0
+17167763,10MGS ONCE DAILY 4 WEEKS.  20MGS 12 WEEKS. (),"Mood altered, Suicidal ideation, Intentional self-injury",17.0,Male,10.0
+17169212,20 MILLIGRAM DAILY;,"Proctalgia, Anal fissure",21.0,Female,20.0
+17172243,"15 MILLIGRAM, QD","Tinnitus, Muscle rupture, Photophobia, Depression, Middle insomnia, Head discomfort, Arthralgia, Myalgia, Ligament rupture, Night sweats, Haematoma",,,15.0
+17179681,"30 MG, 1X/DAY","Off label use, Depressed mood, Mental disorder",15.0,Male,30.0
+17184954,"10 MG, 2X/DAY (AVERAGE DAILY DOSE: 20 MG)","Abortion induced, Exposure during pregnancy",24.0,Female,10.0
+17190117,"20 MILLIGRAMS, DAILY","Proctalgia, Anal fissure",21.0,Female,20.0
+17190935,"20 MG, ONCE",Kounis syndrome,15.0,Female,20.0
+17198610,5 CAPSULES DAILY,"Pancreatic enzymes abnormal, Diarrhoea",33.0,Female,5.0
+17199110,30 MILLIGRAM,Infection,,Female,30.0
+17219716,20 MG X 2 PER DAG,"Lip dry, Libido decreased, Hair texture abnormal, Epistaxis, Erectile dysfunction, Myalgia",48.0,Male,20.0
+17268119,"30 MG, 2X/DAY","Aspartate aminotransferase increased, Lip dry, Dry skin, Back pain, Completed suicide, Orchitis, Alanine aminotransferase increased, Epistaxis, Personality change, Psychotic disorder, Arthralgia, Dermal cyst, Blood bilirubin increased, Off label use, Alopecia areata",19.0,Male,30.0
+17270732,20 MG X 2 PER DAY,"Hair texture abnormal, Erectile dysfunction, Myalgia, Epistaxis, Libido decreased, Lip dry",48.0,Male,20.0
+17272384,"UNK UNK, 2 /DAY","Pulmonary renal syndrome, Granulomatosis with polyangiitis",21.0,Female,2.0
+17274198,40 MILLIGRAM,Drug ineffective,,Female,40.0
+17274200,20 MILLIGRAM,Headache,16.0,Male,20.0
+17274202,"30 MILLIGRAM, BID","Epistaxis, Contusion, Chromaturia, Nail bed disorder",,Female,30.0
+17274204,20 MILLIGRAM,"Mood swings, Lip disorder, Acne, Back disorder",,Female,20.0
+17274205,"40 MILLIGRAM, UNK","Body temperature increased, Malaise",,Female,40.0
+17274207,40 MILLIGRAM,Malaise,,Female,40.0
+17274210,"40 MILLIGRAM, UNK","Malaise, Cough",,Female,40.0
+17274211,30 MILLIGRAM,"Vision blurred, Drug hypersensitivity",,Female,30.0
+17274212,30 MILLIGRAM,Influenza,,Female,30.0
+17274219,"40 MILLIGRAM, 1 /DAY","Migraine, Dry skin",,Female,40.0
+17274234,10 MILLIGRAM; UNK,Rash,,Female,10.0
+17274239,"30 MILLIGRAM, BID",Suicidal ideation,,Male,30.0
+17274240,"30 MILLIGRAM, BID","Depressed mood, Suicidal ideation",17.0,Male,30.0
+17274243,10 MILLIGRAM,Acne,,Female,10.0
+17274247,"1 CAPSULES, DAILY WITH FOOD",Adverse drug reaction,,Male,1.0
+17274248,30 MILLIGRAM,"Abdominal pain, Muscle spasms",,Female,30.0
+17288473,"30 MG, 2X/DAY",Urethritis,17.0,Male,30.0
+17288474,"30 MG, 2X/DAY","Hyperkalaemia, Granulomatosis with polyangiitis, Vasculitis, Pulmonary renal syndrome",21.0,Female,30.0
+17294864,"30 MILLIGRAM, BID","Granulomatosis with polyangiitis, Anti-neutrophil cytoplasmic antibody positive vasculitis, Hyperkalaemia, Interstitial lung disease, Renal tubular atrophy, Metabolic acidosis, Glomerulosclerosis, Pulmonary renal syndrome, Acute kidney injury",21.0,Female,30.0
+17316418,"0.25 MG/KG, 2X/DAY (TUESDAY, WEDNESDAY, THURSDAY)",Depression,,,0.25
+17326635,"30 MILLIGRAM, QD",Pulmonary embolism,22.0,Female,30.0
+17332110,"30 MILLIGRAM, DAILY","Neuropsychiatric symptoms, Aggression, Depressed mood",23.0,Female,30.0
+17337754,"50 MILLIGRAM, UNK","Teratogenicity, Foetal exposure during pregnancy",,,50.0
+17338081,"20 MILLIGRAM, DAILY",Maternal exposure during pregnancy,31.0,Female,20.0
+17345570,"20 MILLIGRAM, QD","Vitreous floaters, Depersonalisation/derealisation disorder, Feeling abnormal, Poor quality sleep, Gastrointestinal disorder, Genital hypoaesthesia, Depression",18.0,Male,20.0
+17352144,60 MILLIGRAM DAILY;,"Granulomatosis with polyangiitis, Pulmonary renal syndrome, Anti-neutrophil cytoplasmic antibody positive vasculitis, Hyperkalaemia",21.0,Female,60.0
+17358321,"80 MILLIGRAM, DAILY",Suicidal ideation,28.0,Female,80.0
+17365809,10MGS ONCE DAILY 4 WEEKS.  20MGS 12 WEEKS.,"Suicidal ideation, Intentional self-injury, Mood altered",17.0,Male,10.0
+17377304,"20 MILLIGRAM, QD","Proctalgia, Anal fissure",21.0,Female,20.0
+17388187,"40 MILLIGRAM, DAILY","Fatigue, Suicidal ideation, Depression",25.0,Female,40.0
+17394386,"20 MILLIGRAM, DAILY","Suicidal ideation, Depressed mood",29.0,Female,20.0
+17416179,1 MG/KG GIVEN IN TWO DIVIDED DOSES PER DAY,"Rhabdomyolysis, Myositis",45.0,Male,1.0
+17424452,20 MILLIGRAM DAILY;,"Erectile dysfunction, Loss of libido",17.0,Male,20.0
+17426430,"0.5 MILLIGRAM/KILOGRAM, DAILY","Cleft palate, Micrognathia, Dandy-Walker syndrome, Eyelid ptosis, Atrial septal defect, Foetal exposure during pregnancy, Hydrocephalus, Cerebellar hypoplasia",3.0,Male,0.5
+17426838,0.5 MG/KG,"Suicidal ideation, Anorexia nervosa",15.0,Female,0.5
+17427043,"0.5 MILLIGRAM/KILOGRAM, DAILY",Exposure during pregnancy,19.0,Female,0.5
+17441644,"60 MG, 1X/DAY",Acne fulminans,21.0,Male,60.0
+17442077,0.77 MILLIGRAM/KILOGRAM,Crohn^s disease,20.0,Male,0.77
+17443341,"20 MILLIGRAM, BID","Hypotension, Drug ineffective, Dizziness",,Female,20.0
+17446894,"30 MG, 2X/DAY","Mood swings, Back pain, Lip dry, Nasal dryness, Decreased appetite",22.0,Female,30.0
+17449219,^MIN DOS 20MG^,Weight decreased,23.0,Female,20.0
+17452964,"30 MILLIGRAM, QD","Depressed mood, Neuropsychiatric symptoms, Aggression",23.0,Female,30.0
+17452970,50 MILLIGRAM,"Foetal exposure during pregnancy, Teratogenicity",,,50.0
+17458269,"20 MILLIGRAM, QD","Maternal exposure during pregnancy, Maternal exposure before pregnancy",31.0,Female,20.0
+17474604,"20 MG, DAILY","Acne fulminans, Drug abuse",21.0,Male,20.0
+17480999,"20 MILLIGRAM, DAILY","Loss of libido, Erectile dysfunction",17.0,Male,20.0
+17489605,"20 MG, DAILY","Uveitis, Erythema nodosum, Arthralgia, Sarcoidosis",17.0,Female,20.0
+17491698,"20 MILLIGRAM, QD","Depressed mood, Suicidal ideation",29.0,Female,20.0
+17491699,40 MILLIGRAM,Maternal exposure during pregnancy,22.0,Female,40.0
+17507504,"20 MILLIGRAM, QD",Acne fulminans,21.0,Male,20.0
+17522090,40 MILLIGRAM,"Acne, Malaise, Pain, Acne fulminans, Inflammation",15.0,Male,40.0
+17529358,"20 MG, QD","Erectile dysfunction, Loss of libido",17.0,Male,20.0
+17547389,"30 MILLIGRAM, BID","Urethritis, Rash, Cheilitis, Enanthema, Scab",17.0,Male,30.0
+17551767,"30 MG, 1X/DAY","Intentional self-injury, Anxiety",17.0,Male,30.0
+17551768,"20 MG, 1X/DAY",Depression,17.0,Male,20.0
+17562521,60 MILLIGRAM,Loss of libido,25.0,Male,60.0
+17573231,"30 MILLIGRAM, QD","Negative thoughts, Abnormal loss of weight, Suicidal ideation, Fatigue, Eating disorder, Abnormal weight gain, Depression, Death, Spine malformation",16.0,Male,30.0
+17574704,"1 X 20 MILLIGRAM, DAILY",Exposure during pregnancy,,Female,1.0
+17574705,"1 X 20 MILLIGRAM, DAILY",Exposure during pregnancy,,Female,1.0
+17574802,"2 X 20 MILLIGRAM, DAILY","Abortion induced, Exposure during pregnancy",,Female,2.0
+17574803,"2 X 20 MILLIGRAM, DAILY",Exposure during pregnancy,,Female,2.0
+17574883,"2 X 20 MILLIGRAM, DAILY",Exposure during pregnancy,,Female,2.0
+17574884,"40 MILLIGRAM, DAILY","Exposure during pregnancy, Abortion induced",,Female,40.0
+17574885,"2 X 20 MILLIGRAM, DAILY",Exposure during pregnancy,,Female,2.0
+17574886,"1 X 20 MILLIGRAM, DAILY",Exposure during pregnancy,,Female,1.0
+17574902,"2 X 20 MILLIGRAM, DAILY","Abortion induced, Exposure during pregnancy",,Female,2.0
+17576900,40 MILLIGRAM,"Vulvovaginal dryness, Back pain, Depressed mood, Epistaxis, Alopecia, Lip dry",3.0,Female,40.0
+17581595,40 MILLIGRAM,"Libido decreased, Tearfulness",28.0,Female,40.0
+17581889,20MG THEN 30MG,"Erectile dysfunction, Libido decreased",19.0,Male,20.0
+17584975,40 MILLIGRAM,Night blindness,29.0,Female,40.0
+17588827,"80 MILLIGRAM, UNK","Suicidal behaviour, Suicidal ideation, Depression",25.0,Male,80.0
+17588870,"30 MILLIGRAM, DAILY","Fatigue, Spine malformation, Depression, Suicidal ideation, Death, Abnormal loss of weight, Abnormal weight gain, Negative thoughts, Eating disorder",16.0,Male,30.0
+17600557,80 MILLIGRAM,"Suicidal behaviour, Suicidal ideation, Depression",25.0,Male,80.0
+17608458,"60 MILLIGRAM, DAILY","Pancreatitis acute, Musculoskeletal chest pain, Back pain",14.0,Female,60.0
+17620304,"20 MILLIGRAM, DAILY",Treatment failure,45.0,Male,20.0
+17620460,10 MILLIGRAM,"Malaise, Gastrointestinal disorder, Crohn^s disease",16.0,Female,10.0
+17624319,"30 MG, QD","Ovarian cyst, Syncope, Abdominal pain lower, Menstrual disorder, Ovarian cyst ruptured",24.0,Female,30.0
+17633423,"20 MILLIGRAM, DAILY","Disease progression, Drug ineffective",,,20.0
+17658713,"20 MILLIGRAM, UNK","Anal fissure haemorrhage, Anal fissure, Pain",21.0,Female,20.0
+17670223,"80 MILLIGRAM, DAILY",Liver function test increased,58.0,Male,80.0
+17670230,"40 MILLIGRAM, 1 /DAY","Anxiety, Insomnia",30.0,Female,40.0
+17670235,"3 CAPSULES, 1X/DAY","Anger, Agitation",16.0,Male,3.0
+17670241,"30 MILLIGRAM, 2 /DAY","Anxiety, Depression",,Female,30.0
+17670251,40 MG,Mood altered,,Male,40.0
+17670260,30 MILLIGRAM,"Back pain, Dry skin",,Female,30.0
+17670262,"10 MILLIGRAM, BID",Exposure during pregnancy,,Female,10.0
+17670266,"40 MILLIGRAM, 1 /DAY",Blood triglycerides increased,,Male,40.0
+17670269,"40 MILLIGRAM, QD","Maternal exposure during pregnancy, Product dose omission",,Female,40.0
+17670282,"10 MILLIGRAM, UNK FREQUENCY",Adverse drug reaction,,Male,10.0
+17670290,"30 MILLIGRAM, DAILY",Suicidal ideation,,Male,30.0
+17670291,"60 MILLIGRAM, DAILY",White blood cell count decreased,14.0,Female,60.0
+17670295,"30 MILLIGRAM, BID",Exposure during pregnancy,,Female,30.0
+17670296,"30 MILLIGRAM, BID",Arthralgia,,Male,30.0
+17670298,40 MILLIGRAM,"Feeling hot, Insomnia, Heart rate increased",,Female,40.0
+17670308,"40 MILLIGRAM, UNK","Mood altered, Tearfulness, Anger",,Female,40.0
+17670313,"20 MILLIGRAM, BID",Foetal exposure during pregnancy,,Female,20.0
+17670314,"20 MILLIGRAM, QD",Nausea,31.0,Female,20.0
+17670336,"30 MILLIGRAM, QD","Abortion, Exposure during pregnancy",,Female,30.0
+17670340,"30 MILLIGRAM, DAILY","Intentional self-injury, Xerosis, Cheilitis",15.0,Female,30.0
+17670350,"30 MILLIGRAM, BID","Weight increased, Amenorrhoea",,Female,30.0
+17670357,"30 MILLIGRAM, 2 /DAY",Arthralgia,27.0,Female,30.0
+17670452,"30 MILLIGRAM, DAILY","Contusion, Product use in unapproved indication, Eye inflammation, Photosensitivity reaction, Neck pain, Headache, Vision blurred, Photophobia",25.0,Female,30.0
+17680807,"10 MILLIGRAM, QD","Malaise, Gastrointestinal disorder, Crohn^s disease",16.0,Female,10.0
+17691483,"20 MILLIGRAM, DAILY","Throat irritation, Abdominal pain upper, Chest discomfort, Abdominal pain, Nasal discomfort, Bone pain, Alopecia, Diarrhoea haemorrhagic, Myalgia, Mucosal dryness, Back pain, Dry eye, Acne, Dyspnoea, Depression, Chapped lips, Oropharyngeal discomfort",26.0,Female,20.0
+17699717,"20 MG, 2X/DAY",Purpura,16.0,Male,20.0
+17699719,"20 MG, 2X/DAY",Purpura,16.0,Male,20.0
+17709586,"40 MILLIGRAMS, DAILY",Lip blister,22.0,Female,40.0
+17713235,?          QUANTITY:1 TABLET(S);?,Psoriasis,31.0,Male,1.0
+17718734,20 MILLIGRAM,"Pain, Anal fissure, Anal fissure haemorrhage",21.0,Female,20.0
+17722900,"20 MILLIGRAM, BID",Vascular skin disorder,16.0,Male,20.0
+17728088,20 MILLIGRAM,Vascular skin disorder,16.0,Male,20.0
+17731634,40 MILLIGRAM DAILY;,"Dry eye, Chromaturia, Myopia, Meibomian gland dysfunction, Vision blurred, Eye infection, Night blindness, Astigmatism, Hordeolum, Tinnitus, Blepharitis, Dry mouth",28.0,Female,40.0
+17746940,"40 MILLIGRAM, QD",Lip blister,22.0,Female,40.0
+17757947,40 MILLIGRAM DAILY;,"Pyogenic granuloma, Vascular skin disorder, Off label use",16.0,Male,40.0
+17757953,40 MILLIGRAM DAILY;,"Pyogenic granuloma, Vascular skin disorder",16.0,Male,40.0
+17792715,"60 MILLIGRAM, QD","Erectile dysfunction, Anxiety, Lip dry",20.0,Male,60.0
+17798410,"30 MILLIGRAM, 1 /DAY",Thyroiditis acute,16.0,Female,30.0
+17802764,"20 MILLIGRAM, DAILY","Oral disorder, Anal fissure, Dry skin, Dry eye",27.0,Female,20.0
+17807226,40 MILLIGRAM,Loss of libido,35.0,Female,40.0
+17808932,BETWEEN 60-80 MG A DAY,Coronavirus infection,,Female,60.0
+17815516,.5 MG/KG DAILY;,"Myalgia, Neutrophilic dermatosis, Acute febrile neutrophilic dermatosis, C-reactive protein increased, Condition aggravated, Intentional product use issue, Acne fulminans, Transaminases increased, Pyrexia, Red blood cell sedimentation rate increased, Pyoderma gangrenosum, Arthralgia, Acne conglobata, Off label use, Pain, Acne, Leukocytosis, Skin ulcer, Drug ineffective, Product administered to patient of inappropriate age",13.0,Male,5.0
+17816768,25 MG,Panic attack,26.0,Female,25.0
+17822691,"40 MILLIGRAM, UNK",Loss of libido,35.0,Female,40.0
+17824022,"40 MG, 1X/DAY","Off label use, Depressed mood, Feeling abnormal, Loss of consciousness, Anger, Dizziness",16.0,Male,40.0
+17844299,"20 MILLIGRAM, DAILY, 1 CAPSULE","Carcinoid syndrome, Flushing, Erythema, Anxiety",38.0,Female,20.0
+17844947,"30 MILLIGRAM, QOD","Disease progression, Dry skin, Lip dry, Sexual dysfunction",42.0,Male,30.0
+17853127,10 MG 1-2 DAILY,Visual impairment,34.0,Female,10.0
+17864674,"60 MILLIGRAM, DAILY","Vision blurred, Mood swings",25.0,Male,60.0
+17865983,20 MG,Infection susceptibility increased,48.0,Female,20.0
+17896300,"20 MG, 1X/DAYIN THE EVENING, TOTAL DAILY DOSE OF 60 MG, 0.98 MG/KG/DAY","Off label use, Pyrexia, Illness, Death, Drug ineffective",19.0,Female,20.0
+17898070,"40 MILLIGRAM, DAILY",Sacroiliitis,26.0,Female,40.0
+17906044,"1 CAPSULES, DAILY","Abortion induced, Therapy cessation, Exposure during pregnancy",40.0,Female,1.0
+17914223,"30 MILLIGRAM,  (1DD1, 30 MG)","Encephalitis, Reversible splenial lesion syndrome",25.0,Male,30.0
+17930207,60 MILLIGRAM DAILY;,"Epiphyses premature fusion, Knee deformity, Short stature",,Male,60.0
+17934124,"60 MILLIGRAM, DAILY, FOR ABOUT 1 YEAR","Epiphyses premature fusion, Short stature",9.0,Male,60.0
+17939249,"30 MILLIGRAM, DAILY","Reversible splenial lesion syndrome, Encephalitis",25.0,Male,30.0
+17940948,"20 MILLIGRAM, BID","Abortion induced, Exposure during pregnancy",39.0,Female,20.0
+17963178,UNIT DOSE: 40 MG,"Dyspnoea, Hepatic steatosis, Lymphocyte count increased, White blood cell count increased, Blood glucose decreased, Blood creatinine decreased, Hepatic pain, Hyponatraemia, Haemoglobin decreased, Hypocalcaemia, Blood triglycerides increased",48.0,Female,40.0
+17963852,"20 MG,QD",Crohn^s disease,19.0,Female,20.0
+17971071,"30 MILLIGRAM, QD","Anxiety, Intentional self-injury",17.0,Female,30.0
+17991302,"0.4 MILLIGRAM/KILOGRAM, DAILY",Vitiligo,17.0,Male,0.4
+17997091,"20 MILLIGRAM, QW","Off label use, Rhabdomyolysis",30.0,Male,20.0
+18000308,"30 MILLIGRAM, DAILY FOR 2 WEEKS","Liver function test increased, Bacterial infection, Haematochezia, Shoulder operation",16.0,Male,30.0
+18011779,"20MG FIRST 2 MONTHS, 40MG 3RD MONTH, 60MG FINAL 3 MONTHS","Conjunctivitis, Cough, Anaemia, Eczema, Epistaxis, Lip dry, Dermatitis allergic, Sinus headache, Dry eye, Muscle spasms",26.0,Female,20.0
+18018039,"30 MILLIGRAM, DAILY","Anxiety, Intentional self-injury",17.0,,30.0
+18059737,"40 MILLIGRAM, BID","Drug exposure before pregnancy, Abortion induced",27.0,Female,40.0
+18067289,"40 MILLIGRAM, QD",Haematochezia,13.0,Female,40.0
+18067302,"30 MG, 1X/DAY","Hallucination, auditory, Psychogenic seizure, Psychotic disorder",17.0,Male,30.0
+18071507,"40 MILLIGRAM, DAILY",Haematochezia,13.0,Female,40.0
+18071662,?          QUANTITY:1 CAPSULE(S);?,"Alopecia, Libido decreased, Fatigue, Dry skin",19.0,Male,1.0
+18071786,"1 CAPSULES, 2 /DAY",Anxiety,,Male,1.0
+18071787,20 MILLIGRAM,Panic attack,20.0,Male,20.0
+18071788,"30 MILLIGRAM, UNK",Condition aggravated,19.0,Female,30.0
+18071790,"40 MILLIGRAM, DAILY 1 BOX WITH 30 CAPSULES","Lip haemorrhage, Lip dry, Rash, Cheilitis, Chapped lips",13.0,Female,40.0
+18071799,30 MILLIGRAM (1 CAPSULES),Depression,17.0,Female,30.0
+18071850,"60 MILLIGRAM, DAILY",Exposure during pregnancy,15.0,Female,60.0
+18071853,"40 MILLIGRAM, 2X/DAY","Musculoskeletal stiffness, Back pain",18.0,Male,40.0
+18071855,"60 MILLIGRAM, DAILY","Mood altered, Self-injurious ideation",,Female,60.0
+18071857,10 MILLIGRAM,"Product dose omission issue, Acne",,Female,10.0
+18071858,"40 MILLIGRAM, QD","Maternal exposure during pregnancy, Abortion spontaneous, Treatment noncompliance",,Female,40.0
+18071859,"10 MILLIGRAM, DAILY",Migraine,31.0,Female,10.0
+18071860,"40 MILLIGRAM, BID",Drug ineffective,36.0,Female,40.0
+18071876,"40 MILLIGRAM, QD",Adverse drug reaction,,Female,40.0
+18071877,"30 MILLIGRAM, 2X/DAY","Abortion induced, Exposure during pregnancy",20.0,Female,30.0
+18071884,"1 CAPSULES, 2X/DAY","Acne, Drug ineffective",,Male,1.0
+18071893,20 MG,Alopecia,,Male,20.0
+18071925,"30 MILLIGRAM, DAILY",Aspartate aminotransferase increased,18.0,Male,30.0
+18071926,"20 MILLIGRAM, 1X/DAY, AT NIGHT","Aspartate aminotransferase increased, Alanine aminotransferase increased",19.0,Male,20.0
+18071928,"30 MILLIGRAM, BID","Abortion spontaneous, Exposure during pregnancy, Contraindicated product administered, Treatment noncompliance",31.0,Female,30.0
+18087907,"20 MILLIGRAM, QD","Adverse event, Pyrexia, Drug ineffective, Illness",,Female,20.0
+18100739,"40 MG, DAILY FOR 1.5 MONTHS","Arthralgia, Movement disorder, Inflammation, Pain, Back pain, Sacroiliitis, Gait inability, Drug ineffective",19.0,Male,40.0
+18101487,"40 MILLIGRAM, QD","Urinary tract infection, Headache, Product blister packaging issue",21.0,Female,40.0
+18104285,30 MILLIGRAM DAILY;,"Fallot^s tetralogy, Cerebellar hypoplasia, Atrial septal defect, Double outlet right ventricle, Foetal exposure during pregnancy, Microcephaly, Patent ductus arteriosus, Small for dates baby, Ventricular septal defect",1.0,Female,30.0
+18115394,"20 MG, 1X/DAY",Sacroiliitis,15.0,Male,20.0
+18122192,"20 MILLIGRAM, DAILY",Sacroiliitis,15.0,Male,20.0
+18123020,"30 MILLIGRAM, DAILY","Small for dates baby, Patent ductus arteriosus, Foetal exposure during pregnancy, Cerebellar hypoplasia, Double outlet right ventricle, Microcephaly, Fallot^s tetralogy, Atrial septal defect, Ventricular septal defect",1.0,Female,30.0
+18134476,"30 MILLIGRAM, BID","Lyme disease, Exposure during pregnancy",23.0,Female,30.0
+18149619,20MG THEN 40MG,Pregnancy,33.0,Female,20.0
+18154394,"20 MILLIGRAM, DAILY (0.4 MG/KG/DAY)","Insomnia, Irritability, Acne fulminans, Weight increased",15.0,Male,20.0
+18157906,40 MG,"Arthralgia, COVID-19",,Female,40.0
+18163269,"UNK, 1X/DAY",Choroid melanoma,32.0,Male,1.0
+18163270,"UNK, 1X/DAY",Choroid melanoma,35.0,Male,1.0
+18163271,"UNK, 1X/DAY","Suicidal ideation, Choroid melanoma, Depression",44.0,Male,1.0
+18165676,0.2 MG/KG/DAY;,"Weight increased, Insomnia, Irritability, Acne fulminans",15.0,Male,0.2
+18170293,"40 MILLIGRAM, BID (OFTEN TOOK QD)","Maternal exposure during pregnancy, Abortion induced, Product dose omission issue",18.0,Female,40.0
+18176463,"20 MILLIGRAM, QD",Secondary hypothyroidism,18.0,Female,20.0
+18185591,?          QUANTITY:30 CAPSULE(S);?,"Suicide attempt, Depression, Suicidal ideation, Inflammatory bowel disease, Crying, Product communication issue, Joint injury, Binge eating, Hypophagia, Arthralgia, Fatigue, Disturbance in attention",20.0,Female,30.0
+18188442,"40 MILLIGRAM, QD","Tinnitus, Deafness, Vertigo",27.0,Female,40.0
+18188489,"30 MILLIGRAM, BID","Abortion induced, Exposure during pregnancy",,Female,30.0
+18189318,"DAILY, FOR ABOUT THREE YEARS, FROM AGE 15","Suicidal ideation, Lip dry, Ciliary body melanoma, Depression, Thermal burn, Chapped lips",44.0,Male,15.0
+18189687,"20 MG, 1X/DAY",Hypothyroidism,18.0,Female,20.0
+18203308,"0.5 MG/KG, 1X/DAY",Sacroiliitis,17.0,Female,0.5
+18209247,"1 MG/KG, 1X/DAY",Sacroiliitis,16.0,Male,1.0
+18212263,10 MILLIGRAM DAILY; DOSE INCREASED TO 20MG DAILY AS TOLERATED,"Telangiectasia, Treatment failure",,Male,10.0
+18221139,"1 DOSAGE FORM, QD","Exposure during pregnancy, Abortion spontaneous",34.0,Female,1.0
+18237554,"10 MILLIGRAM, DAILY","Affective disorder, Drug ineffective",61.0,Female,10.0
+18238139,"0.5 MILLIGRAM/KILOGRAM, DAILY","Drug ineffective, Sacroiliitis",17.0,Female,0.5
+18238176,"1 MILLIGRAM/KILOGRAM, DAILY","Sacroiliitis, Drug ineffective",16.0,Male,1.0
+18244287,"20 MILLIGRAM, SINGLE",Kounis syndrome,15.0,Female,20.0
+18260433,"30 MILLIGRAM, UNK","Irritable bowel syndrome, Anhedonia, Intentional self-injury, Suicidal ideation, Depression",35.0,Female,30.0
+18276937,"30 MILLIGRAM, UNK","Anal haemorrhage, Anal fissure, Proctalgia",22.0,Female,30.0
+18278237,30 MILLIGRAM,"Anhedonia, Suicidal ideation, Irritable bowel syndrome, Depression, Intentional self-injury",35.0,Female,30.0
+18279181,"60 MILLIGRAM, DAILY","Maternal exposure during pregnancy, Abortion induced, Product use issue",20.0,Female,60.0
+18304309,"UNK, 1X/DAY","Choroid melanoma, Skin irritation, Suicidal ideation, Depression",44.0,Male,1.0
+18309226,"20 MILLIGRAM, DAILY",Hypothyroidism,18.0,Female,20.0
+18321109,30 MILLIGRAM,"Anal haemorrhage, Proctalgia, Anal fissure",22.0,Female,30.0
+18328375,60 MILLIGRAM DAILY;,Antipsychotic drug level decreased,32.0,Male,60.0
+18328708,?          QUANTITY:1 TABLET(S);?,"Gastrointestinal disorder, Retinal tear, Feeling abnormal, Flushing, Tinnitus, Depressed mood, Fatigue, Abdominal pain upper, Hot flush, Dry eye, Back pain, Arthralgia",16.0,Male,1.0
+18340227,"4 TABLETS / DAY INITIALLY, THEN DOSE REDUCTION","Periarthritis, Arthralgia, Joint stiffness, Joint noise, Myalgia, Arthropathy",28.0,Female,4.0
+18343769,"60 MG, 1X/DAY",No adverse event,30.0,Female,60.0
+18359396,20-40ML (),"Withdrawal syndrome, Suicidal ideation, Erectile dysfunction",34.0,Male,20.0
+18378412,"30 MILLIGRAM, BID","Gastric disorder, Unevaluable event, Mood altered",18.0,Female,30.0
+18378414,"40 MILLIGRAM, DAILY",Blood triglycerides increased,,Female,40.0
+18378415,"1 CAPSULES, 2X/DAY",Depression,20.0,Female,1.0
+18378418,"40 MILLIGRAM, DAILY",Hepatic enzyme increased,,Female,40.0
+18378424,"30 MILLIGRAM, BID",Drug ineffective,,Male,30.0
+18378444,"1 CAPSULES, QD, FOR 6 MONTHS",Pyogenic granuloma,13.0,Male,1.0
+18378447,"30 MILLIGRAM, BID",Loss of libido,,Male,30.0
+18378448,40 MG,"Acne, Treatment noncompliance",,Male,40.0
+18378449,"30 MILLIGRAM, DAILY","Nausea, Vomiting, Diarrhoea",36.0,Female,30.0
+18378450,"30 MILLIGRAM, BID",Exposure during pregnancy,,Female,30.0
+18378479,"30 MILLIGRAM, TID","Pregnancy test false positive, Vaginal haemorrhage",20.0,Female,30.0
+18378482,"1 CAPSULES, QD","Blood triglycerides increased, Epistaxis",18.0,Female,1.0
+18378485,"30 MILLIGRAM, BID",Exposure during pregnancy,,Female,30.0
+18378490,10 MG AND 20 MG,Drug ineffective,,Female,10.0
+18378514,"40 MILLIGRAM, DAILY","Malaise, Back pain",23.0,Female,40.0
+18378517,"1 CAPSULES, ONCE A DAY",Hepatic enzyme increased,25.0,Female,1.0
+18378527,"30 MG, UNK",Acne,,Female,30.0
+18378533,"30 MILLIGRAM, QD",Migraine,,,30.0
+18378534,"20 MILLIGRAM, QD","Pruritus, Lip dry, Dry skin, Nausea, Vomiting, Dyspepsia",,Female,20.0
+18378535,40 MILLIGRAM,Epistaxis,22.0,Female,40.0
+18378537,"30 MILLIGRAM, BID",Nausea,17.0,Male,30.0
+18378540,"80 MILLIGRAM, DAILY",Pregnancy test false positive,23.0,Female,80.0
+18378543,"60 CAPSULES, DAILY","Depression, Anxiety, Mood swings",30.0,Female,60.0
+18381705,20 MILLIGRAM DAILY; 0-0-20MG,"Rhabdomyolysis, Myoglobin blood increased, Blood creatine phosphokinase increased, Transaminases increased",17.0,Male,20.0
+18393986,"UNK, 20-40ML","Erectile dysfunction, Withdrawal syndrome, Suicidal ideation",34.0,Male,20.0
+18424481,"10 MILLIGRAM, DAILY","Pregnancy, Lip dry, Dry skin",23.0,Female,10.0
+18424856,"5 MG TO 30 MG, QD",Drug ineffective,47.0,Female,5.0
+18461282,"40 MILLIGRAM, DAILY","Foetal exposure during pregnancy, Hypoplastic left heart syndrome",,,40.0
+18466800,FOR 14 DAYS WITH 14 DAYS BREAK,"Skin toxicity, Drug ineffective",12.0,Female,14.0
+18470258,"60 MILLIGRAM, DAILY","Chest pain, Blood cholesterol increased, Conjunctivitis, Palpitations, Oral herpes, Dry eye, Blepharitis, Chapped lips, Loss of libido",36.0,Female,60.0
+18473617,"30 MILLIGRAM, DAILY",Sacroiliitis,20.0,Female,30.0
+18474001,AT MOST 7 CAPSULES / DAY. INCREASED AND DECREASED GRADUALLY,"Anorectal discomfort, Dry skin, Nasal dryness, Vulvovaginal injury, Dry eye",22.0,Female,7.0
+18480648,"120 MG, DAILY","Facial paralysis, Radial nerve palsy, Neurotoxicity, Orthostatic hypotension, Ileus paralytic, Paraesthesia, Peroneal nerve palsy, Ophthalmoplegia, Urinary retention",64.0,Male,120.0
+18497939,"40 MILLIGRAM, QD","Blood cholesterol increased, Dry eye, Loss of libido, Palpitations, Blepharitis, Oral herpes, Chapped lips, Conjunctivitis, Chest pain",36.0,Female,40.0
+18512116,"20 MILLIGRAM, QD",Constipation,24.0,Female,20.0
+18512790,"40 MILLIGRAM, QD","Hypoplastic left heart syndrome, Foetal exposure during pregnancy",,,40.0
+18518498,30 MILLIGRAM,Nodule,61.0,Female,30.0
+18524415,"10 MILLIGRAM, DAILY","Diffuse idiopathic skeletal hyperostosis, Enthesopathy, Enthesopathy",36.0,Female,10.0
+18548316,"30 MG, QD (3 CAPSULES ONCE PER DAY)","Dyspnoea, Heart rate abnormal, Drug ineffective",25.0,Female,30.0
+18549182,"20 MILLIGRAM, DAILY","Anorgasmia, Loss of libido, Vulval disorder",25.0,Female,20.0
+18572169,1 X PER DAG 1 STUK,"Obsessive-compulsive personality disorder, Depression",,Female,1.0
+18582409,"30 MILLIGRAM, ONCE A DAY ((3 CAPSULES ONCE PER DAY)","Dyspnoea, Drug ineffective, Heart rate abnormal",25.0,Female,30.0
+18586302,"0.5 MILLIGRAM/KILOGRAM, QD","Staphylococcal infection, SAPHO syndrome",15.0,Male,0.5
+18592116,10MG PER DAY THE FIRST MONTH. INCREASED 10MG / MONTH.,"Alopecia, Pain of skin",26.0,Female,10.0
+18597192,"20 MILLIGRAM, QD","Loss of libido, Vulval disorder, Anorgasmia",25.0,Female,20.0
+18600700,"60 MILLIGRAM, DAILY","Abortion induced, Exposure during pregnancy",37.0,Female,60.0
+18603647,"10 MILLIGRAM, BID","Haematemesis, Rectal haemorrhage",,Female,10.0
+18604572,"0.5 MILLIGRAM/KILOGRAM, DAILY","SAPHO syndrome, Depressive symptom, Irritability, Drug ineffective, Insomnia",15.0,Male,0.5
+18605847,9 COURSES,Acute myeloid leukaemia,4.0,Male,9.0
+18608888,"0.5 MILLIGRAM/KILOGRAM, DAILY, CUMULATIVE DOSE 105 MG",Gynaecomastia,17.0,Male,0.5
+18612571,"20 MILLIGRAM, QD(1X PER DAY 1 PIECE)","Obsessive-compulsive personality disorder, Depression",,Female,20.0
+18628359,.5 MG/KG DAILY;,"Depressive symptom, Insomnia, Bone marrow oedema, SAPHO syndrome, Sacroiliitis, Drug ineffective, Osteitis, Irritability",15.0,Male,5.0
+18637162,"0.5 MILLIGRAM/KILOGRAM, QD","Insomnia, Bone marrow oedema, Osteitis, Depressive symptom, SAPHO syndrome, Drug ineffective, Sacroiliitis, Irritability",15.0,Male,0.5
+18646523,1X PER DAY 2 CAPSULES. DOSAGE WAS 1 OR 2 CAPSULES PER DAY (),Serotonin syndrome,,Female,1.0
+18648991,"10 MILLIGRAM, QD (LAST COURSE (CUMULATIVE DOSE 4640MG) TILL JAN 2010 APROX)","Diffuse idiopathic skeletal hyperostosis, Musculoskeletal stiffness, Neck pain, Enthesopathy",36.0,Female,10.0
+18654466,"30 MILLIGRAM, QD (3 CAPSULES ONCE PER DAY)","Dyspnoea, Heart rate abnormal, Drug ineffective",25.0,Female,30.0
+18663664,1X PER DAG 2 CAPSULES. DOSERING WAS WISSELEND 1 OF 2 CAPSULES PER DAG,Serotonin syndrome,,Female,1.0
+18673871,"40 MILLIGRAM, UNK","Memory impairment, Cognitive disorder, Anger, Mood swings, Brain injury, Emotional poverty, Cerebrovascular disorder, Panic attack, Insomnia",18.0,Male,40.0
+18685010,40 MILLIGRAM,"Brain injury, Cerebrovascular disorder, Emotional poverty, Panic attack, Insomnia, Anger, Memory impairment, Cognitive disorder, Mood swings",18.0,Male,40.0
+18689966,20 MILLIGRAM DAILY; THE SUSPECT MEDICATION WAS TAKEN BY THE FATHER( BEFORE AND DURING CONCEPTION),"Vitiligo, Paternal exposure timing unspecified",,Female,20.0
+18692580,"60 MILLIGRAM, UNK","Genital hypoaesthesia, Sexual dysfunction, Anorgasmia, Libido decreased",23.0,Female,60.0
+18692588,"90 MILLIGRAM, UNK",Foetal exposure during pregnancy,22.0,Female,90.0
+18694606,60 MILLIGRAM,"Sexual dysfunction, Anorgasmia, Libido decreased, Genital hypoaesthesia",23.0,Female,60.0
+18694608,90 MILLIGRAM,Maternal exposure during pregnancy,22.0,Female,90.0
+18695280,"30 MILLIGRAM, QD","Abortion induced, Maternal exposure during pregnancy",35.0,Female,30.0
+18695378,"30 MG; PRESCRIBED QD, TOOK PRN","Treatment noncompliance, Abortion induced, Maternal exposure before pregnancy",35.0,Female,30.0
+18696720,70 MILLIGRAM,Erectile dysfunction,21.0,Male,70.0
+18735412,"40 MILLIGRAM, BID","Abortion induced, Exposure during pregnancy",33.0,Female,40.0
+18737552,"60 MG, BID (NG: NASOGASTRIC)",Septic shock,4.0,Female,60.0
+18751367,20 MILLIGRAM DAILY;,Tendon rupture,16.0,Female,20.0
+18772836,60 (),"Erectile dysfunction, Loss of libido",19.0,Male,60.0
+18774788,"10 MILLIGRAM, DAILY","Haemorrhage, Drug ineffective, Pyogenic granuloma",13.0,Male,10.0
+18783922,"20 MILLIGRAM, DAILY","SARS-CoV-2 test positive, Depression",18.0,Female,20.0
+18791581,"20 MILLIGRAM, DAILY",Tendon rupture,16.0,Female,20.0
+18797497,"40 MG, BID","Cough, Rash, Pyrexia, Off label use",4.0,Female,40.0
+18854008,"30 MILLIGRAM, BID","Abortion induced, Exposure during pregnancy, Rash",33.0,Female,30.0
+18860825,"STRENGTH: 20 MG, UNIT DOSE: 40 MG","Hypotonia, Dandy-Walker syndrome, Visual impairment, Foetal exposure during pregnancy, Teratogenicity, Microtia, Ventricular septal defect",11.0,Female,20.0
+18882118,20 MILLIGRAM,Erectile dysfunction,28.0,Male,20.0
+18884407,60MG OD,"Intentional overdose, Suicidal behaviour",15.0,Male,60.0
+18890189,20 MG TO 50 MG/ DAY,"Wound infection bacterial, Suicide attempt, Drug ineffective",,Female,20.0
+18904333,"40 MILLIGRAM, DAILY","Exposure during pregnancy, Abortion induced",,Female,40.0
+18913832,20MG,"Lip dry, Vulvovaginal dryness, Suicide attempt, Aggression, Lip dry, Epistaxis",26.0,Female,20.0
+18924550,"30 MILLIGRAM, UNK","Headache, Depressed mood, Myalgia",35.0,,30.0
+18924551,50MG OD,Diabetes mellitus,15.0,Male,50.0
+18936258,"40 MILLIGRAM, QD (40MG OD)","Nasal dryness, Dysgeusia, Dry throat",42.0,,40.0
+18940555,"30 MILLIGRAM, QD","Seizure, SARS-CoV-2 test positive",,Male,30.0
+18942188,40MG DAILY,Overdose,15.0,Female,40.0
+18946250,"0.2 MILLIGRAM/KILOGRAM, QD(EQUAL TO 10 MG/DAY)","Acne fulminans, Off label use",12.0,Male,0.2
+18958782,UNK 20 MG TO 50 MG/ DAY,"Wound infection bacterial, Suicide attempt, Drug ineffective",,Female,20.0
+18962350,"30 MILLIGRAM, QD, DISCONTINUED USE 2 DAYS PRIOR TO PRESENTATION","Tachycardia, Symptom masked, Depression, Mood swings, Electrocardiogram QT prolonged",14.0,Female,30.0
+18967273,40MG OD,Dysgeusia,42.0,,40.0
+18969746,"0.2 MG/KG, 1X/DAY (QD, LOW?DOSE (0.2 MG/KG/DAY EQUAL TO 10 MG/DAY))",Drug ineffective,12.0,Male,0.2
+18973855,40 MILLIGRAM,Maternal exposure during pregnancy,24.0,Female,40.0
+18989319,"0.5 MILLIGRAM/KILOGRAM, 1 EVERY 1 DAYS",Neutrophilic dermatosis,13.0,Male,0.5
+19006601,40 MG,Exposure during pregnancy,24.0,Female,40.0
+19007612,30 MILLIGRAM DAILY; DISCONTINUED USE 2 DAYS PRIOR TO PRESENTATION,"Tachycardia, Mood swings, Dry throat, Symptom masked, Mydriasis, Intentional product misuse, Depression, Dysphonia, Urinary hesitation, Electrocardiogram QT prolonged, Toxicity to various agents",14.0,Female,30.0
+19012921,"UNK, CYCLIC (SIX, 2?WEEKLY CYCLES)",Death,,,2.0
+19012947,"UNK, CYCLIC (SIX, 2?WEEKLY CYCLES)",Death,,,2.0
+19013218,"1 CAPSULES, 2X/DAY","Maternal exposure during pregnancy, Abortion induced",18.0,Female,1.0
+19030066,20MGS ONCE DAILY,"Blood glucose increased, Muscle spasms, Hypersensitivity, Dyskinesia",21.0,Female,20.0
+19035485,"20 MILLIGRAM, QD","Dyskinesia, Blood glucose increased, Hypersensitivity, Muscle spasms",21.0,Female,20.0
+19042116,.2 MG/KG DAILY; FOR AROUND 40 DAYS,"Arthralgia, Acne fulminans, Hepatic enzyme increased, Weight decreased, Malaise, Leukocytosis, Pyrexia, Neutrophilia, Abdominal pain, Thrombocytosis",12.0,Male,2.0
+19067701,(0.66 MG/KG/D) 5400MG,Urethritis noninfective,27.0,Male,0.66
+19071181,"15 TABLETS, DAILY","Overdose, Arthralgia",35.0,Female,15.0
+19080877,"20 MILLIGRAM, DAILY","Therapy partial responder, Depression",19.0,Male,20.0
+19085667,"30 MILLIGRAM, BID",Urethritis noninfective,27.0,Male,30.0
+19097695,"30 MILLIGRAM, QD",Suicide attempt,16.0,Male,30.0
+19120186,1X PER DAY 30MG (CONSISTING OF 10MG AND 20MG CAPSULE),Completed suicide,19.0,Male,1.0
+19123183,"60 MILLIGRAM, QD",Loss of libido,24.0,Female,60.0
+19138471,"10 MILLIGRAM, DAILY","Weight decreased, Condition aggravated, Chills, Skin burning sensation",61.0,Male,10.0
+19143055,30MG ONCE DAILY,Suicide attempt,16.0,Male,30.0
+19143122,"80 MILLIGRAMS, DAILY",Product use in unapproved indication,17.0,Female,80.0
+19149742,"1 DOSAGE FORM, QD","Toxicity to various agents, Cushing^s syndrome",,,1.0
+19161247,"60 MILLIGRAM, DAILY",Loss of libido,24.0,Female,60.0
+19162917,20?60 MG,"Joint stiffness, Visual impairment, Dry eye, Eczema",24.0,Female,20.0
+19163958,80 MG,"Arthralgia, Joint stiffness",24.0,Female,80.0
+19167886,"1 DOSAGE FORM, QD",Cushingoid,35.0,Male,1.0
+19183674,"UNK, 6 CYCLICAL","Thrombotic microangiopathy, Thrombocytopenia, End stage renal disease, Anaemia, Blood lactate dehydrogenase increased, Proteinuria, Clostridium difficile colitis, Drug ineffective, Pyrexia",8.0,Male,6.0
+19189509,40MG,"Meniscus injury, Ligament rupture",,Female,40.0
+19208661,"40 MILLIGRAM, DAILY","Depression, Suicidal ideation, Lethargy",18.0,Male,40.0
+19233081,"50 MILLIGRAM, UNK",Maternal exposure during pregnancy,,Female,50.0
+19238478,"30 MILLIGRAM, BID","Abortion induced, Maternal exposure during pregnancy",21.0,Female,30.0
+19240385,"20 MILLIGRAM, DAILY, 1 X PER DAY 1","Hyperglycaemia, Type 1 diabetes mellitus",,Female,20.0
+19250786,40 MILLIGRAM DAILY;,Vitreous floaters,29.0,Female,40.0
+19265151,"30 MILLIGRAM, QD",Completed suicide,17.0,Female,30.0
+19296362,"20 MILLIGRAM, DAILY","Diabetes mellitus, Diabetic ketoacidosis",16.0,Male,20.0
+19351812,"30 MILLIGRAM, DAILY","Maternal exposure during pregnancy, Abortion induced",27.0,Female,30.0
+19359665,"20,MG, THEN 60MG, THEN 40MG","Lichen sclerosus, Penile haemorrhage, Sensitive skin, Dry skin, Medication error, Hypersensitivity",28.0,Male,20.0
+19362179,"40 MG 1 CAPSULES, QD",Drug exposure before pregnancy,,Female,40.0
+19379556,"60 MILLIGRAM, DAILY",Suicide attempt,18.0,Male,60.0
+19392187,"20,MG, THEN 60MG, THEN 40MG","Haemorrhage, Medication error, Dry skin, Hypersensitivity",28.0,Male,20.0
+19400902,60 MILLIGRAM,"Maternal exposure during pregnancy, Unevaluable event, Weight decreased, Hidradenitis, Metabolic surgery, Affective disorder, Skin papilloma",,Female,60.0
+19412926,30 MILLIGRAM,"Ovarian germ cell teratoma, Abortion spontaneous, Exposure during pregnancy, Lip dry, Xerosis",16.0,Female,30.0
+19415881,20 MILLIGRAM DAILY;,"Skin tightness, Rash, Skin haemorrhage",18.0,Female,20.0
+19449072,"30 MILLIGRAM, 2X/DAY","Vaginal haemorrhage, Abortion induced, Exposure during pregnancy, Product dispensing error",,Female,30.0
+19461576,"20 MILLIGRAM, QD",Tendon rupture,16.0,Female,20.0
+19589387,10 MILLIGRAM (10MG/DAY (0.1MG/KG/DAY)   ),"Red blood cell sedimentation rate increased, Acne, Skin lesion, C-reactive protein increased, Acne fulminans, Secretion discharge, Scab, Ulcer, Skin mass",13.0,Male,10.0
+19595917,"30 MILLIGRAM, DAILY",Sacroiliitis,26.0,Female,30.0
+19601926,"30 MILLIGRAM, BID","Abortion induced, Exposure during pregnancy, Headache, Dry skin, Lip dry",17.0,Female,30.0
+19603589,"20 MILLIGRAM, QD","Off label use, Drug ineffective for unapproved indication",,Male,20.0
+19609275,"40 MILLIGRAM, QD","Drug ineffective for unapproved indication, Off label use",,Female,40.0
+19615791,"40 MILLIGRAM, QD",Drug ineffective,,Female,40.0
+19623002,"20 MILLIGRAM, QD",Drug ineffective,47.0,Male,20.0
+19626366,"40 MILLIGRAM, DAILY","Herpes zoster, Drug ineffective, Osteopenia",36.0,Female,40.0
+19635430,"20 MILLIGRAM, DAILY",Latent autoimmune diabetes in adults,55.0,Female,20.0
+19647166,"30 MILLIGRAM, BID","Abortion induced, Exposure during pregnancy",20.0,Female,30.0
+19680186,"80 MILLIGRAM, QD",Drug ineffective,,Male,80.0
+19680895,"40 MILLIGRAM, QD","Condition aggravated, Off label use, Drug ineffective for unapproved indication, Alopecia scarring",36.0,Male,40.0
+19680963,"40 MILLIGRAM, QOD","Exercise tolerance decreased, Arthralgia, Juvenile idiopathic arthritis, Gait disturbance",15.0,Male,40.0
+19685598,"40 MILLIGRAM, DAILY","Premature baby, Craniofacial deformity, Heart disease congenital, Atrial septal defect, Cardiac failure congestive, Dextrocardia, Patent ductus arteriosus, Foetal exposure during pregnancy, Ventricular septal defect",,Female,40.0
+19685640,"40 MILLIGRAM, DAILY","Exposure during pregnancy, Premature baby",,Female,40.0
+19685913,"30 MILLIGRAM, BID","Abortion induced, Maternal exposure during pregnancy",21.0,Female,30.0
+19691812,"40 MILLIGRAM, QD",Rash papular,22.0,Female,40.0
+19704856,"80 MILLIGRAM, ONCE A DAY","Suicidal ideation, Ingrowing nail, Overdose, Dry skin, Oropharyngeal pain, Psychiatric symptom, Localised infection, Pain in extremity, Lip dry, Aggression, Completed suicide, Gastric infection, Personality change, Suicide attempt, Depression, Erythema, Scar",17.0,Male,80.0
+19705384,?          QUANTITY:10 CAPSULE(S);?,"Abdominal pain, Product substitution issue, Irritability, Dyspepsia, Asthenia, Nausea, Perforated ulcer",17.0,Male,10.0
+19714753,"80 MILLIGRAM, DAILY","Pain in extremity, Psychiatric symptom, Erythema, Personality change, Suicide attempt, Localised infection, Suicidal ideation, Aggression, Ingrowing nail, Completed suicide, Gastric infection, Overdose, Dry skin, Lip dry, Scar, Oropharyngeal pain, Depression",17.0,Male,80.0
+19723286,"20 MILLIGRAM, DAILY",Completed suicide,17.0,Female,20.0
+19744808,"40 MILLIGRAM, QD","Delusional disorder, somatic type",24.0,Male,40.0
+19750619,"30 MILLIGRAM, 2X/DAY","Ectopic pregnancy, Maternal exposure during pregnancy",26.0,Female,30.0
+19769752,(0.44 MG/KG/DAY),"Blood creatine phosphokinase increased, Rhabdomyolysis, Neutropenia",16.0,Male,0.44
+19770342,40 MILLIGRAM,Completed suicide,21.0,Male,40.0
+19773000,1X PER DAG 30MG (BESTAANDE UIT 10MG EN 20MG CAPSULE),Completed suicide,19.0,Male,1.0
+19774289,"UNK, PROGRESSIVE DOSE INCREASE FROM 20MG TO 80 MG","Suicide attempt, Thirst, Anxiety disorder, Suicidal ideation, Depression, Dry skin",19.0,Male,20.0
+19776590,"80 MILLIGRAM, DAILY","Delusional disorder, somatic type",24.0,Male,80.0
+19800457,20 MG (0.44 MG/KG/DAY),"Rhabdomyolysis, Neutropenia, Treatment failure",16.0,Male,20.0
+19800750,40MG,Completed suicide,21.0,Male,40.0
+19815591,"10 MG, 1X/DAY","Head discomfort, Intracranial pressure increased, Eye oedema, Headache",17.0,Male,10.0
+19823431,"10 MG, QD","Orbital swelling, Headache, Intracranial pressure increased, Head discomfort",,,10.0
+19825036,30 MILLIGRAM DAILY;,Hypertriglyceridaemia,15.0,Female,30.0
+19830104,"20 MILLIGRAM, (0.44 MG/KG/DAY)","Rhabdomyolysis, Acute kidney injury",16.0,Male,20.0
+19842077,DAILY DOSE 70 MG (1 MG/KG/DAY),Treatment failure,16.0,Male,70.0
+19844428,.44 MG/KG DAILY; 20 MG (0.44 MG/KG/DAY),"Rhabdomyolysis, Neutropenia, Treatment failure",16.0,Male,44.0
+19847602,"20 MILLIGRAM, QD","Maternal exposure during pregnancy, Abortion induced",21.0,Female,20.0
+19856657,"20 MILLIGRAM, QD, (1D20 MG)","Diabetes mellitus, Diabetic ketoacidosis",16.0,Male,20.0
+19861690,"1 EVERY 24 HOURS, TOPICAL","Maternal exposure during pregnancy, Abortion spontaneous, Epilepsy, Pneumonia, Exposure during pregnancy",34.0,Female,1.0
+19874656,"60 MILLIGRAM, QD","Tearfulness, Emotional disorder, Anxiety",20.0,Female,60.0
+19892822,"60 MILLIGRAM, QD",Suicide attempt,18.0,Male,60.0
+19913168,40 MILLIGRAM,Depression suicidal,,Male,40.0
+19939534,"30 MILLIGRAM, BID","Abortion induced, Maternal exposure during pregnancy",20.0,Female,30.0
+19952680,30 MG,"Conjunctivitis, Ulcerative keratitis, Dry eye, Blepharitis",24.0,Female,30.0
+19955695,"10 MILLIGRAM, DAILY","Hallucination, visual, Restlessness, Sleep disorder",17.0,Female,10.0
+19988148,"30 MILLIGRAM, QD","Abortion induced, Maternal exposure during pregnancy, Nausea, Headache, Abdominal pain",27.0,Female,30.0
+19991395,40 MILLIGRAM,Self-injurious ideation,,Male,40.0
+20004443,"20 MG OD FOR 21 DAYS THEN WITHELD DUE TO RAISED ALT, THEN 10 MG OD FOR 31 DAYS",Suicidal ideation,16.0,,20.0
+20026879,40MG,Erectile dysfunction,18.0,Male,40.0
+20027514,"20 MG OD FOR 21 DAYS THEN WITHELD DUE TO RAISED ALT, THEN 10 MG OD FOR 31 DAYS",Suicidal ideation,16.0,,20.0
+20063093,"30 MILLIGRAM, BID","Abortion induced, Ectopic pregnancy with contraceptive device, Exposure during pregnancy",,Female,30.0
+20072526,"20 MILLIGRAM, UNK","Lip swelling, Periorbital swelling",16.0,Male,20.0
+20073282,"40 MG, QD",Retinal vein occlusion,42.0,Female,40.0
+20077612,"30 MILLIGRAM, QD (30MG DAILY)","Abnormal loss of weight, Constipation, Alanine aminotransferase increased, Diarrhoea, Mood altered, Arthralgia, Epistaxis, Lip dry, Eating disorder, Product use in unapproved indication",16.0,Female,30.0
+20087489,"1 DF, QD",Uveitis,17.0,Female,1.0
+20095191,"20 MILLIGRAM, DAILY",Mania,18.0,Male,20.0
+20097567,OTHER QUANTITY : 1 TABLET(S);?FREQUENCY : DAILY;?,"Arthritis, Impaired quality of life, Pain, Drug hypersensitivity",31.0,Female,1.0
+20098144,"60 MILLIGRAM, 1X/DAY","Foot operation, Suicidal behaviour, Immobile, Depression",,Male,60.0
+20098529,"40 MILLIGRAM, QD","Abortion induced, Exposure during pregnancy, Herpes virus infection",,Female,40.0
+20103765,"1 DOSAGE FORM, 1 /DAY",Dermatitis allergic,21.0,Female,1.0
+20103766,"40 MILLIGRAM, 2 /DAY",Blood triglycerides increased,16.0,Male,40.0
+20103767,60 MG,"Blood triglycerides increased, Therapy interrupted",,Female,60.0
+20103769,"30 MILLIGRAM, 1X/DAY",Back pain,19.0,Female,30.0
+20103771,40 MILLIGRAM,Platelet count decreased,,Female,40.0
+20103772,30 MILLIGRAM,Depression,19.0,Female,30.0
+20103778,"40 MILLIGRAM, 1X/DAY","Headache, Off label use",29.0,Female,40.0
+20103783,"1 CAPSULES, QD","Therapeutic product effect incomplete, Vomiting, Nausea",,Male,1.0
+20103789,"30 MILLIGRAM, BID","Ill-defined disorder, Treatment noncompliance",,Female,30.0
+20103790,"30 MILLIGRAM, 2 /DAY",Depression,29.0,Male,30.0
+20103796,"20 MILLIGRAM, UNK","Visual impairment, Hallucination, Mood altered",21.0,Male,20.0
+20103797,"40 MILLIGRAM, DAILY",Arthralgia,27.0,Female,40.0
+20103798,20 MG; UNK,Anxiety,,Female,20.0
+20103799,"30 MILLIGRAM, DAILY",Anxiety,24.0,Female,30.0
+20103805,"40 MILLIGRAM, BID",Optic neuritis,25.0,Female,40.0
+20103814,"30 MILLIGRAM, QD",Depression suicidal,20.0,Female,30.0
+20103815,"20 MILLIGRAM, QD; FIRST COURSE",Headache,,Male,20.0
+20103816,"1 TABLETS, DAILY","Abdominal discomfort, Dry throat, Decreased appetite",16.0,Male,1.0
+20103817,"1 CAPSULES, 1X/DAY",White blood cell count decreased,18.0,Male,1.0
+20103819,"30 MILLIGRAM, 1 /DAY",Headache,17.0,Female,30.0
+20103820,"20 MILLIGRAM, QD",Seizure,22.0,Female,20.0
+20103821,"60 MILLIGRAM, DAILY","Hyperglycaemia, Arthralgia, Transaminases increased",,Female,60.0
+20103824,"UNK, 20MG","Hallucination, auditory, Suicidal ideation, Depressed mood, Nasal dryness",16.0,Female,20.0
+20103825,"30 MILLIGRAM, DAILY",Suicidal ideation,26.0,,30.0
+20103826,"30 MILLIGRAM, 1X/DAY",Headache,,Male,30.0
+20103829,"40 MILLIGRAM, 2 /DAY","Abdominal pain upper, Nausea, Headache",,Female,40.0
+20103832,10 MG,Arthralgia,,Female,10.0
+20103833,"30 MILLIGRAM, DAILY",Headache,,Female,30.0
+20103834,"80 MILLIGRAM, DAILY",Hepatic steatosis,16.0,Male,80.0
+20103835,"40 MILLIGRAM, BID","Rectal haemorrhage, Blood pressure increased, Headache",71.0,Male,40.0
+20103838,"40 MILLIGRAM, 2 /DAY","Abdominal discomfort, Decreased appetite",,Female,40.0
+20103839,"20 MILLIGRAM, UNK","Unevaluable event, Paraesthesia",,Female,20.0
