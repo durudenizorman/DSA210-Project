@@ -31,24 +31,49 @@ df_ml_ready = df_fda.dropna(subset=['patient_age', 'gender', 'dosage_mg', 'sever
 df_reviews['extracted_dosage_mg'] = df_reviews['review'].str.extract(r'([0-9]{2,3})\s?[mM][gG]').astype(float)
 
 
-# 2. EXPLORATORY DATA ANALYSIS (EDA)
+# ==========================================
+# 2. EXPLORATORY DATA ANALYSIS & HYPOTHESIS VISUALIZATION
+# ==========================================
+# We use a 2x2 grid to visualize both data distributions and our formal hypotheses.
+plt.figure(figsize=(14, 10))
 
-plt.figure(figsize=(12, 5))
-
-# Plot 1: Average Severity by Gender
-plt.subplot(1, 2, 1)
-sns.barplot(data=df_ml_ready, x='gender', y='severity_score', palette='pastel', errorbar=None)
-plt.title('Average Side Effect Severity by Gender (FDA Data)')
+# Plot 1 (H1): Gender vs Severity
+# Boxplot is superior to a bar chart here as it reveals the distribution, median, and outliers.
+plt.subplot(2, 2, 1)
+sns.boxplot(data=df_ml_ready, x='gender', y='severity_score', palette='pastel')
+plt.title('H1: Side Effect Severity Distribution by Gender')
 plt.xlabel('Gender')
-plt.ylabel('Average Number of Side Effects')
+plt.ylabel('Number of Side Effects (Severity)')
 
-# Plot 2: Distribution of Extracted Dosages from Reviews
-plt.subplot(1, 2, 2)
+# Plot 2 (EDA): Distribution of Extracted Dosages
+# Histogram combined with KDE shows exactly how our patient dosages are clustered.
+plt.subplot(2, 2, 2)
 valid_dosages = df_reviews['extracted_dosage_mg'].dropna()
 sns.histplot(valid_dosages, bins=10, color='salmon', kde=True)
-plt.title('Distribution of Dosages Extracted from Reviews')
+plt.title('EDA: Patient Reported Daily Dosages')
 plt.xlabel('Dosage (mg)')
 plt.ylabel('Frequency')
+
+# Plot 3 (H2): Dosage vs. Severity (FDA Data)
+# A scatter plot with a regression line (regplot) visually proves the lack of linear correlation.
+plt.subplot(2, 2, 3)
+sns.regplot(data=df_ml_ready, x='dosage_mg', y='severity_score', 
+            scatter_kws={'alpha':0.3, 'color':'steelblue'}, 
+            line_kws={'color':'red', 'linewidth':2})
+plt.title('H2: Dosage vs. Side Effect Severity (FDA)')
+plt.xlabel('Daily Dosage (mg)')
+plt.ylabel('Severity Score')
+
+# Plot 4 (H3): Dosage vs. Patient Sentiment (Reviews Data)
+# Proves that patient satisfaction (rating) doesn't linearly drop as dosage increases.
+df_reviews_clean = df_reviews.dropna(subset=['extracted_dosage_mg', 'rating'])
+plt.subplot(2, 2, 4)
+sns.regplot(data=df_reviews_clean, x='extracted_dosage_mg', y='rating', 
+            scatter_kws={'alpha':0.5, 'color':'mediumseagreen'}, 
+            line_kws={'color':'darkorange', 'linewidth':2})
+plt.title('H3: Dosage vs. Patient Satisfaction (Reviews)')
+plt.xlabel('Daily Dosage (mg)')
+plt.ylabel('Rating (1-10)')
 
 plt.tight_layout()
 plt.show()
