@@ -13,7 +13,7 @@ import seaborn as sns
 
 # 1. DATA LOADING AND PREPARATION
 
-df_fda = pd.read_csv("isotretinoin_project_data_FDA.csv")
+df_fda = pd.read_csv("isotretinoin_project_data.csv")
 df_reviews = pd.read_csv("isotretinoin_reviews.csv")
 
 sns.set(style="whitegrid")
