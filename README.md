@@ -15,7 +15,7 @@ Ultimately, my goal is to utilize these findings to create a **predictive machin
 To ensure a robust analysis and meet the project's data enrichment requirement, two distinct public datasets were integrated:
 
 1. **FDA Adverse Event Reports (FAERS):** Extracted via Python API. The initial query retrieved 3,000 raw clinical records, which were subsequently cleaned to remove missing values. This resulted in a robust dataset of over 1,200 pristine clinical records detailing patient age, gender, prescribed dosage (mg), and specific adverse reactions.
-2. **Drugs.com Patient Reviews:** A public dataset containing patient sentiment ratings (1-10) and raw review texts. Natural Language Processing (Regex) was used to successfully extract numerical daily dosages directly from the unstructured patient narratives.
+2. **Drugs.com Patient Reviews:** Sourced from the publicly available "Drugs.com" dataset on Kaggle. The raw dataset was programmatically filtered to isolate records specifically related to the active ingredient 'Isotretinoin'. Furthermore, Natural Language Processing (Regex) was utilized to extract numerical daily dosages directly from these unstructured patient narratives.
 
 ## 3. Exploratory Data Analysis (EDA)
 During the initial EDA phase, the focus was on data cleaning and feature engineering:
