@@ -35,29 +35,29 @@ Three formal hypotheses were tested to validate the core assumptions of the proj
 ## Findings
 The most striking finding from this phase is the "Gender Gap." While increasing the raw dosage does not linearly increase the number of side effects, biological sex plays a statistically significant role in treatment tolerance. This finding validates the initial motivation to create a predictive model, as Gender will serve as a crucial feature, alongside Age and Dosage, in anticipating side effect severity.
 
-### Predictive Modeling (Machine Learning)
+## Predictive Modeling (Machine Learning)
 
 I applied Random Forest classification models to test if side effect severity and patient satisfaction could be reliably predicted based solely on Age, Gender, and Raw Dosage.
 
-#### Model 1: FDA Data (Risk Level Classification)
+### Model 1: FDA Data (Risk Level Classification)
 **Goal:** Predict whether a patient falls into the "High Risk" (≥2 side effects) or "Low Risk" (0-1 side effects) category based on their demographic and dosage data.
 
 * **Standard Model (Accuracy: 62.50%):** This model suffered from severe Class Imbalance. It achieved artificially high accuracy by predicting "High Risk" for almost everyone, failing to identify "Low Risk" patients. However, in Medical AI, this is often a preferred fallback: it is clinically safer to be overly cautious and flag everyone as high risk (False Positive) than to completely miss a patient who might suffer severe side effects (False Negative).
 * **Balanced Model (Accuracy: 55.36%):** I forced the model to learn the minority class by applying `class_weight='balanced'`. While overall accuracy dropped closer to random chance (50%), the model became clinically honest, successfully identifying a significant portion of Low Risk patients.
 * **The "Accuracy Paradox" Insight:** The drop from 62.5% to 55.3% is not a failure, but a correction of a biased model. The balanced model mathematically proves that predicting idiosyncratic drug reactions using only 3 basic features is highly limited.
 
-#### Model 2: Reviews Data (Patient Satisfaction)
+### Model 2: Reviews Data (Patient Satisfaction)
 **Goal:** Predict if a patient will rate the drug highly (8-10) based *only* on the numerical dosage extracted via NLP from their text review.
 
 * **Result:** The Random Forest Classifier achieved an Accuracy of 75.00%.
 * **Interpretation:** Even with a significantly reduced sample size post-NLP extraction, the model successfully captured the overarching trend that patients generally report high satisfaction regardless of the specific dosage.
 
-#### Key Findings (Connecting Hypothesis Tests to ML)
+## Key Findings (Connecting Hypothesis Tests to ML)
 * **Gender is the Strongest Predictor (Validating H3):** Feature Importance analysis of the balanced FDA model revealed that Gender had a significantly higher importance score than raw Daily Dosage. This mathematically validates our initial T-Test hypothesis (H3), confirming that biological sex dictates treatment tolerance far more than a uniform pill size.
 * **Predicting Human Biology is Complex (Validating H1):** The modest 55.3% accuracy in the balanced model, along with the low importance of 'Dosage', confirms our initial Pearson Correlation finding (H1). Side effect severity is highly idiosyncratic, influenced by unavailable factors (like weight and genetics) rather than linearly predicted by dosage alone.
 * **Efficacy Outweighs Side Effects (Validating H2):** Model 2 successfully predicted patient satisfaction with 75.00% accuracy, reflecting the overarching trend that patients generally report high satisfaction regardless of the specific dosage. This supports our H2 finding that the drug's efficacy often outweighs the perceived severity of side effects.
 
-#### Limitations & Future Work
+## Limitations & Future Work
 * **Missing Confounding Variables (Weight):** In clinical dermatology, Isotretinoin is prescribed strictly based on body weight (mg/kg). Because exact patient weight is omitted in public FAERS data due to privacy constraints, "raw dosage" alone lacks the necessary context to serve as a definitive toxicity threshold.
 * **Genetics and Lab Results:** Future iterations would require integrating longitudinal patient lab results (e.g., liver enzyme panels) and genetic data to build a highly accurate, clinical-grade predictive model.
 
