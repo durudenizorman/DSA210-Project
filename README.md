@@ -91,8 +91,11 @@ Rather than simply reiterating statistical facts, the combination of our EDA and
 
 
 ## Limitations & Future Work
-* **Missing Confounding Variables (Weight):** In clinical dermatology, Isotretinoin is prescribed strictly based on body weight (mg/kg). Because exact patient weight is omitted in public FAERS data due to privacy constraints, "raw dosage" alone lacks the necessary context to serve as a definitive toxicity threshold.
-* **Genetics and Lab Results:** Future iterations would require integrating longitudinal patient lab results (e.g., liver enzyme panels) and genetic data to build a highly accurate, clinical-grade predictive model.
+* **Missing Confounding Variables (Weight & Time):** In clinical dermatology, Isotretinoin is prescribed strictly based on body weight (mg/kg), and the ultimate cure depends on the *cumulative dose* reached over 6 months. Because exact patient weight and the specific month of treatment are omitted in public FAERS and Kaggle data, "raw daily dosage" alone lacks the full clinical context to serve as a definitive toxicity threshold.
+* **Self-Reporting Bias:** Both the FDA FAERS database and Drugs.com reviews rely on patient or practitioner self-reporting. This inherently introduces a polarization bias, as individuals are statistically more likely to report extreme experiences (either miraculous cures or severe adverse reactions) while moderate experiences remain underrepresented.
+* **Lack of Medical History (Comorbidities):** The datasets do not provide comprehensive pre-existing medical histories. It is challenging to definitively isolate whether a side effect like depression was purely drug-induced or an exacerbation of an underlying pre-existing condition.
+* **Future AI Architectures (Deep Learning):** While traditional Machine Learning (Random Forest, Logistic Regression) provided strong baseline insights, future iterations of this project would benefit from utilizing medical-specific Deep Learning architectures, such as **BioBERT**, to better capture the complex contextual nuances of clinical narratives.
+* **Genetics and Lab Results:** To transition this analytical model into a clinical-grade diagnostic tool, future studies must integrate longitudinal patient lab results (e.g., monthly liver enzyme and lipid panels) alongside genetic predispositions.
 
 
 ## AI Assistance Disclosure
