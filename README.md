@@ -43,7 +43,6 @@ During the initial EDA phase, the focus was on data cleaning, visualization, and
 * Visualizations (*see Top-Right Plot*) revealed that patient dosages are heavily clustered around **20mg, 40mg, and 60mg** daily intakes, as evidenced by the prominent distinct peaks in the frequency histogram.
 * The demographic distribution confirmed that the patient age heavily skews towards the **15-25** age group, aligning perfectly with expected severe acne treatment demographics.
 
----
 
 ## Hypothesis Testing & Visualizations
 To visually validate and statistically test the core assumptions of the project, a comprehensive 2x2 analysis dashboard was generated. This dashboard explicitly bridges the gap between raw data distributions and our formal statistical inferences.
