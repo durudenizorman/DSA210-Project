@@ -30,7 +30,7 @@ Ultimately, my goal is to utilize these findings to create a **predictive machin
 ├── README.md
 └── requirements.txt
 
-## Data Collection (Enrichment)
+** ## Data Collection (Enrichment)**
 To ensure a robust analysis and meet the project's data enrichment requirement, two distinct public datasets were integrated:
 
 1. **FDA Adverse Event Reports (FAERS):** Extracted via Python API. The initial query retrieved 3,000 raw clinical records, which were subsequently cleaned to remove missing values. This resulted in a robust dataset of over 1,200 pristine clinical records detailing patient age, gender, prescribed dosage (mg), and specific adverse reactions.
