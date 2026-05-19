@@ -24,10 +24,10 @@ Ultimately, my goal is to utilize these findings to create a **predictive machin
 ├── data/
 │   ├── isotretinoin_project_data.csv
 │   └── isotretinoin_reviews.csv
-├── figures.pdf
-├── DSA 210 Project Proposal - Duru Deniz Orman.pdf
+├── DSA 210 Project Proposal - Duru Deniz Orman.pdf 
 ├── HT_EDA.py
 ├── README.md
+├── figures.png
 └── requirements.txt
 ``` 
 
