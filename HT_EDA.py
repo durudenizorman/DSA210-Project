@@ -28,11 +28,11 @@ df_reviews['extracted_dosage_mg'] = df_reviews['review'].str.extract(r'([0-9]{2,
 # We use a 2x2 grid to visualize both data distributions and our formal hypotheses.
 plt.figure(figsize=(14, 10))
 
-# Plot 1 (H1): Gender vs Severity
+# Plot 1 (H3): Gender vs Severity
 # Boxplot is superior to a bar chart here as it reveals the distribution, median, and outliers.
 plt.subplot(2, 2, 1)
 sns.boxplot(data=df_ml_ready, x='gender', y='severity_score', palette='pastel')
-plt.title('H1: Side Effect Severity Distribution by Gender')
+plt.title('H3: Side Effect Severity Distribution by Gender')
 plt.xlabel('Gender')
 plt.ylabel('Number of Side Effects (Severity)')
 
@@ -45,53 +45,58 @@ plt.title('EDA: Patient Reported Daily Dosages')
 plt.xlabel('Dosage (mg)')
 plt.ylabel('Frequency')
 
-# Plot 3 (H2): Dosage vs. Severity (FDA Data)
+# Plot 3 (H1): Dosage vs. Severity (FDA Data)
 # A scatter plot with a regression line (regplot) visually proves the lack of linear correlation.
 plt.subplot(2, 2, 3)
 sns.regplot(data=df_ml_ready, x='dosage_mg', y='severity_score', 
             scatter_kws={'alpha':0.3, 'color':'steelblue'}, 
             line_kws={'color':'red', 'linewidth':2})
-plt.title('H2: Dosage vs. Side Effect Severity (FDA)')
+plt.title('H1: Dosage vs. Side Effect Severity (FDA)')
 plt.xlabel('Daily Dosage (mg)')
 plt.ylabel('Severity Score')
 
-# Plot 4 (H3): Dosage vs. Patient Sentiment (Reviews Data)
+# Plot 4 (H2): Dosage vs. Patient Sentiment (Reviews Data)
 # Proves that patient satisfaction (rating) doesn't linearly drop as dosage increases.
 df_reviews_clean = df_reviews.dropna(subset=['extracted_dosage_mg', 'rating'])
 plt.subplot(2, 2, 4)
 sns.regplot(data=df_reviews_clean, x='extracted_dosage_mg', y='rating', 
             scatter_kws={'alpha':0.5, 'color':'mediumseagreen'}, 
             line_kws={'color':'darkorange', 'linewidth':2})
-plt.title('H3: Dosage vs. Patient Satisfaction (Reviews)')
+plt.title('H2: Dosage vs. Patient Satisfaction (Reviews)')
 plt.xlabel('Daily Dosage (mg)')
 plt.ylabel('Rating (1-10)')
 
 plt.tight_layout()
+
+# Grafiklerin son halini otomatik olarak figures.pdf olarak kaydet
+plt.savefig("figures.pdf", bbox_inches='tight')
 plt.show()
 
+# ==========================================
 # 3. HYPOTHESIS TESTING
+# ==========================================
 
 print("==== HYPOTHESIS TESTING RESULTS ====\n")
 
-# Hypothesis 1: Gender vs. Severity
+# Hypothesis 1: Dosage vs. Severity (FDA)
+corr_severity = df_ml_ready['dosage_mg'].corr(df_ml_ready['severity_score'])
+print("HYPOTHESIS 1 (Dosage vs. Severity): Is there a linear correlation between daily dosage and side effect severity?")
+print(f"Pearson Correlation Coefficient (r): {corr_severity:.3f}")
+print("Conclusion: No strong linear correlation found. Side effect severity is likely dependent on patient biology (e.g., gender, weight) rather than dosage alone.\n")
+
+# Hypothesis 2: Dosage vs. Patient Sentiment (Reviews)
+df_reviews_clean = df_reviews.dropna(subset=['extracted_dosage_mg', 'rating'])
+corr_sentiment = df_reviews_clean['extracted_dosage_mg'].corr(df_reviews_clean['rating'])
+print("HYPOTHESIS 2 (Dosage vs. Sentiment): Does a higher dosage lead to lower patient satisfaction (rating)?")
+print(f"Pearson Correlation Coefficient (r): {corr_sentiment:.3f}")
+print("Conclusion: No correlation found. Patient satisfaction remains high regardless of the dosage, indicating the drug's overall effectiveness outweighs dosage-induced hardships.\n")
+
+# Hypothesis 3: Gender vs. Severity
 male_mean = df_ml_ready[df_ml_ready['gender'] == 'Male']['severity_score'].mean()
 female_mean = df_ml_ready[df_ml_ready['gender'] == 'Female']['severity_score'].mean()
 
-print("HYPOTHESIS 1: Does gender affect the severity (number) of side effects?")
+print("HYPOTHESIS 3 (Gender vs. Severity): Does gender affect the severity (number) of side effects?")
 print(f"Male Average Side Effects: {male_mean:.2f}")
 print(f"Female Average Side Effects: {female_mean:.2f}")
 print("Conclusion: Male patients report a significantly higher number of side effects compared to female patients.")
 print("Future ML Goal: Gender will be a strong predictive feature for the upcoming symptom prediction model.\n")
-
-# Hypothesis 2: Dosage vs. Severity (FDA)
-corr_severity = df_ml_ready['dosage_mg'].corr(df_ml_ready['severity_score'])
-print("HYPOTHESIS 2: Is there a linear correlation between daily dosage and side effect severity?")
-print(f"Pearson Correlation Coefficient (r): {corr_severity:.3f}")
-print("Conclusion: No strong linear correlation found. Side effect severity is likely dependent on patient biology (e.g., gender, weight) rather than dosage alone.\n")
-
-# Hypothesis 3: Dosage vs. Patient Sentiment (Reviews)
-df_reviews_clean = df_reviews.dropna(subset=['extracted_dosage_mg', 'rating'])
-corr_sentiment = df_reviews_clean['extracted_dosage_mg'].corr(df_reviews_clean['rating'])
-print("HYPOTHESIS 3: Does a higher dosage lead to lower patient satisfaction (rating)?")
-print(f"Pearson Correlation Coefficient (r): {corr_sentiment:.3f}")
-print("Conclusion: No correlation found. Patient satisfaction remains high regardless of the dosage, indicating the drug's overall effectiveness outweighs dosage-induced hardships.")
