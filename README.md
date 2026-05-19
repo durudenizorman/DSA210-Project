@@ -13,7 +13,7 @@ Ultimately, my goal is to utilize these findings to create a **predictive machin
 
 
 ## Repository Structure
-
+``` 
 ├── Data Preprocessing & Fetching/
 │   ├── fda_api_data.py
 │   └── reading_data_kaggle.py
@@ -29,6 +29,7 @@ Ultimately, my goal is to utilize these findings to create a **predictive machin
 ├── HT_EDA.py
 ├── README.md
 └── requirements.txt
+``` 
 
 ## Data Collection (Enrichment)
 To ensure a robust analysis and meet the project's data enrichment requirement, two distinct public datasets were integrated:
