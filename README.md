@@ -11,6 +11,25 @@ Isotretinoin is highly effective for treating severe acne, yet it carries a sign
 
 Ultimately, my goal is to utilize these findings to create a **predictive machine learning model** that helps anticipate and manage symptoms beforehand based on patient characteristics and dosage.
 
+
+## Repository Structure
+
+├── Data Preprocessing & Fetching/
+│   ├── fda_api_data.py
+│   └── reading_data_kaggle.py
+├── Machine Learning/
+│   ├── machine_learning_model_1_balanced.py
+│   ├── machine_learning_model_2_(depression_warning_system).py
+│   └── machine_learning_model_3.py
+├── data/
+│   ├── isotretinoin_project_data.csv
+│   └── isotretinoin_reviews.csv
+├── figures
+├── DSA 210 Project Proposal - Duru Deniz Orman.pdf
+├── HT_EDA.py
+├── README.md
+└── requirements.txt
+
 ## Data Collection (Enrichment)
 To ensure a robust analysis and meet the project's data enrichment requirement, two distinct public datasets were integrated:
 
