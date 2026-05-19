@@ -1,7 +1,7 @@
 # Quantitative Analysis of Isotretinoin Dosage on Side Effect Severity and Patient Sentiment
 
 **DSA 210 - Introduction to Data Science**
-**Sabancı University (Fall 2025-2026)**
+**Sabancı University (Spring 2025-2026)**
 **Student:** Duru Deniz Orman  
 
 ---
