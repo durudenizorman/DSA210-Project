@@ -38,19 +38,27 @@ To ensure a robust analysis and meet the project's data enrichment requirement, 
 2. **Drugs.com Patient Reviews:** Sourced from the publicly available "Drugs.com" dataset on Kaggle. The raw dataset was programmatically filtered to isolate records specifically related to the active ingredient 'Isotretinoin'. Furthermore, Natural Language Processing (Regex) was utilized to extract numerical daily dosages directly from these unstructured patient narratives.
 
 ## Exploratory Data Analysis (EDA)
-During the initial EDA phase, the focus was on data cleaning and feature engineering:
+During the initial EDA phase, the focus was on data cleaning, visualization, and feature engineering:
 * A quantitative `severity_score` was created by counting the distinct number of side effects reported by each patient in the FDA dataset.
-* Visualizations revealed that patient dosages are heavily clustered around 20mg, 40mg, and 60mg daily intakes, while the patient age distribution skews towards the 15-25 demographic.
+* Visualizations revealed that patient dosages are heavily clustered around **20mg, 40mg, and 60mg** daily intakes.
+* The demographic distribution confirmed that the patient age heavily skews towards the **15-25** age group, aligning with expected acne treatment demographics.
 
-## Hypothesis Testing 
-Three formal hypotheses were tested to validate the core assumptions of the project:
 
-* **H1 (Dosage vs. Severity):** Tested the correlation between daily dosage and the severity score.
-  * *Result:* No strong linear correlation found (p > 0.05). Side effect severity appears to be influenced by individual biological factors rather than raw dosage alone.
-* **H2 (Dosage vs. Sentiment):** Tested the relationship between extracted dosage and patient satisfaction ratings.
-  * *Result:* No negative correlation found. Patients report high satisfaction despite high dosages, indicating that the drug's efficacy outweighs its side effects.
-* **H3 (Gender vs. Severity):** Conducted an Independent T-Test to compare side effect severity between genders.
-  * *Result:* **Statistically Significant (p = 0.004).** Male patients report a significantly higher average number of side effects (3.34) compared to female patients (2.75).
+## Hypothesis Testing & Visualizations
+To visually validate and statistically test the core assumptions of the project, a comprehensive 2x2 analysis dashboard was generated, bridging the gap between raw data trends and statistical inferences.
+
+<p align="center">
+  <img src="figures.png" alt="Hypothesis Testing and EDA Dashboard" width="95%">
+</p>
+
+* **H1 (Dosage vs. Severity):** Tested the correlation between daily dosage and the computed severity score (*Visualized in Bottom-Left Plot*).
+  * *Result:* No strong linear correlation found (p > 0.05). Side effect severity appears to be heavily influenced by individual biological traits rather than raw daily dosage alone.
+* **H2 (Dosage vs. Sentiment):** Tested the relationship between extracted dosage levels and subjective patient satisfaction ratings (*Visualized in Bottom-Right Plot*).
+  * *Result:* No negative correlation found. Patients report highly favorable ratings even at maximum dosage levels, indicating that the drug's therapeutic efficacy overwhelmingly outweighs its physiological hardships.
+* **H3 (Gender vs. Severity):** Conducted an Independent T-Test to compare side effect tolerance and numbers between biological sexes (*Visualized in Top-Left Plot*).
+  * *Result:* **Statistically Significant (p = 0.004).** Male patients report a significantly higher average number of distinct side effects (3.34) compared to female patients (2.75).
+
+**Phase Conclusion:** The most striking finding is the "Gender Gap" (H3). While increasing the raw dosage does not linearly scale the number of side effects, biological sex plays a statistically significant role in treatment tolerance. This finding mathematically justifies the feature selection (Gender, Age, Dosage) for the subsequent predictive machine learning phase.
 
 ## Findings
 The most striking finding from this phase is the "Gender Gap." While increasing the raw dosage does not linearly increase the number of side effects, biological sex plays a statistically significant role in treatment tolerance. This finding validates the initial motivation to create a predictive model, as Gender will serve as a crucial feature, alongside Age and Dosage, in anticipating side effect severity.
